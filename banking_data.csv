@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Gender,Age,Account_Type,Balance,Branch,Credit_Score,Loan_Status,Monthly_Income,Transaction_Count_Last_Month,Last_Login
+fb8e54b1-8c25-471b-8ecc-29ab243d65e1,Cynthia Parker,Other,56,Recurring,266776.02,Kolkata,540,Approved,193549.03,90,09-03-2025
+31f28e2e-815b-413a-a396-64dc86fa3d31,Lauren Ruiz MD,Male,69,Current,121992.78,Bangalore,391,Approved,154597.18,22,19-02-2025
+cedfa6cd-d723-49bd-bfdd-f5cb587b0af9,Vincent Nelson,Male,46,Recurring,135352.37,Hyderabad,895,Approved,190646.81,45,29-09-2024
+09ed4a93-a3e2-41aa-b857-22323a9488a2,April Stone,O,32,Recurring,189264.8,Hyderabad,856,Pending,143482.7,71,30-03-2025
+ecd9b768-9dd8-46a8-ba65-d37eb922713f,Connie Collins,F,60,Recurring,11015.53,Kolkata,624,Rejected,66629.92,7,23-01-2025
+b242c77d-ebf9-4767-af00-75997fe9627b,Susan Miller,Male,25,Fixed Deposit,161717.5,Chennai,805,Rejected,30019.34,58,19-10-2024
+4691dfc3-6d2b-47a2-9af8-f4cb374fed7e,Jamie Thomas,Male,38,Recurring,106512.56,Bangalore,613,Not Applied,158546.53,89,16-04-2025
+9f85158b-594a-43ff-ac0e-0c9fc57d5d3b,Robin Lopez,Male,56,Fixed Deposit,164421.18,Delhi,674,Pending,132388.35,58,02-02-2025
+72de3b9b-c622-4e85-b000-ca4a789c1b01,Kim Moore,Other,36,Savings,60761.3,Delhi,353,Not Applied,19155.34,12,04-08-2024
+039eb7d1-b0b9-4015-9100-7b5435ae96e2,Christopher Garrett,Male,40,Savings,445373.11,Kolkata,753,Not Applied,78409.59,38,06-07-2024
+9781fb40-6ad7-4e51-a9f6-9d03484055a0,Amber Buchanan,Other,28,Current,297202.63,Mumbai,377,Rejected,191791.96,27,13-01-2025
+9d4b6bfb-aeb4-439d-9d6e-dd1213f98195,James Smith,Other,28,Current,339872.06,Chennai,796,Pending,105076.22,88,18-05-2025
+b3d82c60-0bc2-42af-bfcf-0dec8fe500d0,Benjamin Harmon,Other,41,Fixed Deposit,,Hyderabad,769,Approved,92218.54,60,16-05-2025
+f072e547-7969-4eb7-aab2-80c7c94949b8,Rachel Lee,Male,53,Savings,249722.66,Chennai,725,Not Applied,96962.92,15,10-11-2024
+add38884-05b7-49e1-8d65-86811fc98ffb,Andrea Villanueva,Other,57,Current,44373.22,Kolkata,322,Approved,49687.72,1,13-05-2025
+cdfcf6dd-0e70-4b4e-8ab2-bc9bc119a147,Jenna Green DVM,Female,41,Current,269016.16,Chennai,482,Pending,80054.36,81,26-10-2024
+67f24e5f-c45c-4209-8be4-218a807375d7,Robin Sanchez,Male,20,Current,293833.72,Delhi,458,Not Applied,80264.52,16,05-09-2024
+8f76ea6e-357e-4407-9588-9ae735c80918,Daniel Robinson,Male,39,Savings,372974.3,Kolkata,516,Approved,19947.45,29,08-07-2024
+88559d76-0cac-4617-aa75-3fb4d2505732,Michael Johnson,Male,19,Current,216398.11,Delhi,353,Approved,155837.85,12,07-12-2024
+7449dd59-6c68-446f-8d6d-139c9121cd12,Phillip Reed,Male,41,Savings,64662.57,Bangalore,862,Rejected,89135.84,95,12-10-2024
+e2fd20b9-b817-4109-b5f2-b69be8d3eee9,Robert Vasquez,Male,61,Recurring,142604.18,Bangalore,632,Pending,166214.18,92,27-07-2024
+6c08cc25-e9cf-4b9e-842e-1be611921c17,Thomas Reynolds,Other,47,Recurring,182178.07,Mumbai,483,Pending,171566.12,93,26-12-2024
+09aed41b-3941-44ce-a848-43f90fecc91e,Gregory Boone,Other,55,Recurring,323312.7,Chennai,538,Pending,50278.87,81,14-05-2025
+41b30c1c-1b57-48ab-ba0f-43d39d0b1e0e,Joshua Campbell,Male,19,Fixed Deposit,285818.37,Bangalore,568,Not Applied,134897.16,12,17-02-2025
+7748ac39-e8d9-4a1a-ab64-63af1cdef4a3,Erik Lawrence,Other,38,Savings,,Chennai,660,Rejected,99733.54,42,31-10-2024
+82e4e244-0e7c-42cd-ad6e-e7d61a6f825c,Robert Meyer,Male,50,Current,493271.11,Delhi,609,Not Applied,177229.78,84,25-11-2024
+a11074c8-bb00-4684-bdf9-630f7e4fb1c9,Christina Williamson,Other,29,Fixed Deposit,303281.63,Kolkata,852,Pending,50990.73,93,22-10-2024
+63890a4c-9fb3-49d7-9670-e37c293e11db,Michael Lopez,Other,39,Fixed Deposit,119376.17,Bangalore,598,Not Applied,138784.51,20,22-02-2025
+d3e1382c-92d6-4113-8a40-ec5f33e3ab7b,Annette Sanders,Other,61,Recurring,51789.45,Kolkata,895,Approved,125472.9,54,12-12-2024
+497994b6-65c7-421c-bf15-3935a5dfa126,Victoria Wilson,Other,42,Savings,77276.71,Bangalore,811,Not Applied,66107.28,80,26-10-2024
+f8657083-88ac-4b65-b5a9-07dc18b57d1a,William Mullen,Female,66,Current,123732.91,Chennai,425,Not Applied,35954.17,39,28-08-2024
+bacd53d4-cbe6-4a19-9135-a60650717798,Adam Leonard,Male,44,Fixed Deposit,,Bangalore,858,Pending,133811.55,82,17-01-2025
+a39faf7c-7567-4205-82a1-ef6ed62ee9f5,Patricia Bailey,Female,59,Current,94096.95,Hyderabad,370,Approved,150333.52,14,01-11-2024
+301d0669-d7c8-4729-bc22-9b3254e7e1bd,Keith Craig,Other,45,Recurring,143262.49,Bangalore,790,Pending,69969.2,72,06-07-2025
+6565ce9b-8d98-4d84-a6b5-f707314c7ca7,Russell Rocha,Female,33,Savings,87513.42,Delhi,528,Approved,132518.19,51,27-08-2024
+1058e548-0d58-475c-8c41-1897cc0f1ea5,Tiffany Hayden,Male,32,Current,448485.95,Mumbai,827,Approved,85074.87,73,07-10-2024
+6b9fa0e6-153c-44d4-bc9b-474d972032d2,Annette Watson,Male,64,Current,41036.64,Delhi,821,Approved,145509.31,94,01-09-2024
+5f4db057-f848-4b68-ada1-34fc7486c81e,Chloe Barnes,Other,68,Fixed Deposit,262731.18,Kolkata,784,Pending,47850.9,52,06-11-2024
+4a1dca80-12d7-4f9d-bd92-a1381c20fe37,Bradley Roach,Female,61,Current,205788.02,Chennai,774,Approved,179140.85,86,01-02-2025
+9c16fe63-6e9e-48d0-9cd4-c8f984e45f29,Stephanie Ingram,Female,69,Savings,491206.93,Chennai,483,Rejected,64607.82,51,11-02-2025
+d482adf4-d596-49db-b078-a1fb4ceeba60,Amber Gonzales,Female,20,Savings,56907.41,Bangalore,349,Rejected,79879.34,29,06-06-2025
+6e092a39-dc53-42a9-a76b-3e8b91f12510,Sarah Edwards,Male,54,Current,199529.94,Chennai,542,Rejected,21037.47,32,11-04-2025
+bb7c7fb3-fedf-4f9a-ac16-be53fd384ce0,Sarah Nelson,Male,68,Fixed Deposit,484765.75,Mumbai,404,Rejected,31187.32,56,25-05-2025
+18ee2303-f80d-4464-a4a4-5e8de8d7399c,Melanie Jones,Female,24,Fixed Deposit,432888.06,Mumbai,717,Pending,108013.76,51,19-02-2025
+53201483-4a5b-4082-9ff0-571f3b943ebe,Darius Johnson,Male,38,Recurring,408718.96,Bangalore,508,Not Applied,60842.61,8,20-01-2025
+debb61d5-f6bb-446e-810e-f193fbbc83d8,Olivia Ford,Male,26,Savings,129693.51,Bangalore,885,Not Applied,168741.24,53,27-12-2024
+edf78499-a7f9-4976-88ea-e52f9ccae0a2,Matthew Morton,Female,56,Recurring,86272.91,Kolkata,685,Rejected,12791.74,0,19-07-2024
+6fb6391d-d071-44cc-b8cf-a84175be7edf,Sean Freeman,Male,35,Fixed Deposit,334652.97,Bangalore,793,Not Applied,82027.87,43,03-08-2024
+8402abbd-e958-486a-ab3a-e43df4aba110,Amanda Wagner,Female,21,Recurring,464758.62,Delhi,380,Rejected,74095.65,98,05-03-2025
+ed324c0b-a6d2-44ba-baa8-06d3d4781756,David Orozco,Female,42,Fixed Deposit,278824.68,Delhi,817,Rejected,13672.25,74,17-09-2024
+fff891ea-3008-4e08-a042-570bce9465f1,Jason Caldwell,Other,31,Recurring,286234.73,Delhi,854,Not Applied,33630,97,03-10-2024
+d42a01f5-3f73-4d7a-81c1-8bed4382af58,Steven Walsh,Female,67,Recurring,140709.57,Mumbai,592,Not Applied,88592.11,79,06-06-2025
+54f4c25e-3656-4e06-ae54-e63eded740c9,Jose Moore,Male,26,Savings,384976.97,Hyderabad,664,Approved,103644.27,8,19-08-2024
+0a6e90d0-4b8a-4edf-81ad-29a239d35b6b,Melissa Bates,Other,43,Savings,94334.83,Chennai,759,Rejected,86815.05,31,17-05-2025
+dcadd39d-5d88-45ac-af9c-6c0e66cf2600,Tina Johnson,Female,19,Recurring,162515.94,Kolkata,405,Not Applied,110878.16,14,08-12-2024
+b86e8d3d-b9a9-450e-b64b-57de3c2cf118,Jesus Wise,Other,37,Fixed Deposit,213292.78,Bangalore,602,Not Applied,123075.02,11,22-11-2024
+1e7e8a32-d422-4433-ac00-220864ba7894,Russell Rodriguez,Male,45,Fixed Deposit,254297.58,Kolkata,539,Not Applied,11885.53,96,09-01-2025
+848b1633-c152-4b26-b572-48eff64f69dc,Dr. Mary Scott MD,Female,64,Savings,121962.46,Mumbai,388,Approved,98178.08,77,25-05-2025
+fb8fe76e-a535-4a9d-99cb-df71432b9e7a,Willie Travis,Male,24,Savings,58303.58,Bangalore,521,Rejected,193064.86,56,29-06-2025
+0edec715-2878-49ba-946e-5d270d914795,Matthew Jennings,Other,61,Current,305699.4,Bangalore,341,Rejected,108616.13,7,02-09-2024
+a75e1eac-8cbb-4fea-b3cc-a7790f2e674d,Erica Blevins,Female,25,Savings,145026.65,Mumbai,315,Pending,138733.03,71,13-07-2024
+6e79df75-5143-4bfe-b782-d447f1a878cf,Robert Levine,Other,64,Fixed Deposit,291037.87,Chennai,381,Approved,69254.13,26,20-02-2025
+9c2ff334-0e1c-47c0-809e-9d7a2d4d2893,Julie Valdez,Other,52,Savings,78026.99,Bangalore,878,Approved,157058.36,61,13-12-2024
+7c80da20-ad19-4245-97d1-ff80e18033ec,David Taylor,Female,31,Current,241088.91,Chennai,630,Rejected,156855.08,11,19-09-2024
+4f6421b3-e03a-475a-abac-f6dee1c461fa,Jared Bailey,Other,34,Recurring,266762.13,Mumbai,879,Pending,109046.25,64,12-10-2024
+45cab4d5-81ba-4d8c-bf29-b35ce46c1584,Michael Gamble,Male,53,Recurring,26859.94,Kolkata,559,Pending,195442.63,41,16-02-2025
+e1adf398-0c6f-45b1-b5b5-5d24b3307282,Stacy Carter,Other,67,Fixed Deposit,168965.53,Bangalore,487,Rejected,33854.54,61,14-03-2025
+d5176e1f-f4cd-4be1-ab4f-c93ee0ef8580,Rickey White,Male,57,Current,68072.92,Hyderabad,604,Not Applied,13220.06,10,03-03-2025
+6fc7bbd1-b2c8-471c-9c0c-cc68fb9a743e,Vincent Vega,Male,21,Recurring,32624.11,Chennai,564,Approved,156330.06,42,27-12-2024
+4c2ad38f-fc53-4338-a861-5eb86e163662,Roger Peters,Other,19,Recurring,494990.16,Bangalore,363,Pending,163359.55,94,25-07-2024
+9a9d4e98-d8c4-498a-a586-f465e9ea4c30,James Henry,Male,23,Savings,161854.57,Chennai,684,Not Applied,32839.37,16,13-07-2024
+15f231cc-a4ae-4224-89ce-05b58ef97957,William Matthews,Female,59,Recurring,405127.35,Bangalore,430,Pending,60460.74,96,08-02-2025
+be88ad92-09d0-4fe6-8db1-95da1a7fc5dc,Derek Lester,Male,21,Fixed Deposit,128065.69,Bangalore,672,Not Applied,13334.95,31,05-11-2024
+3e568911-3426-41ea-ae3c-8a48aee8ad57,Jacob Hardin,Male,46,Recurring,341069.86,Bangalore,690,Not Applied,65728.64,92,10-09-2024
+602d1c5f-72eb-40f1-973c-66839adf3bc7,Heather Simpson,Male,35,Fixed Deposit,380353.7,Kolkata,391,Approved,156896.96,84,16-06-2025
+a112b738-7ab0-4aff-98c2-cd9901594b11,Catherine Schroeder,Female,43,Fixed Deposit,298223.73,Hyderabad,337,Pending,108412.5,84,07-08-2024
+c41a4255-4afd-4c31-925b-d6d99f82a8c8,Brenda Bailey,Female,61,Savings,236316.52,Bangalore,768,Pending,76138.16,39,12-04-2025
+6d304bce-3a49-4c98-a4ce-54ab430a38b0,Ashley Howard,Female,51,Current,206508.62,Chennai,576,Not Applied,80630.47,22,29-12-2024
+bb8bc446-ebd3-430d-8cd7-f1cb0a8f04b8,Leslie Allen,Other,27,Fixed Deposit,175085.27,Kolkata,335,Rejected,10257.19,55,09-02-2025
+71d4e270-07f8-4742-838c-86c62989fc2a,Kim Morrison,Female,53,Recurring,464835.04,Delhi,897,Pending,66962.1,5,29-12-2024
+29c41af8-3fe4-4bb9-b797-f848b47aeadb,James Lee,Male,31,Recurring,415479.08,Chennai,335,Approved,132827.16,85,07-12-2024
+5378473d-ccbd-4abe-81ec-eb10d15701cc,Scott Romero,Female,48,Fixed Deposit,482548.43,Chennai,717,Rejected,195096.94,49,19-03-2025
+c180bedb-1f32-423f-8740-692c57e2f33e,Dr. Dan Harris,Female,65,Recurring,,Hyderabad,890,Pending,170941.56,36,05-10-2024
+523ab625-f60e-460d-baf6-948a7db442c7,Spencer Caldwell,Male,32,Savings,365702.87,Delhi,444,Approved,14483.04,63,14-06-2025
+833dd4fc-feda-4334-8301-bbe5b5f1460a,Morgan Kim,Other,25,Recurring,469231.89,Kolkata,385,Rejected,180726.51,53,25-01-2025
+2574ed94-7fa7-4d3f-b862-f5ce3ed5bf4a,Aaron Castro,Female,31,Savings,91435.3,Bangalore,373,Pending,158807.7,71,11-04-2025
+b1d1e629-d315-4940-866b-cf377ba8fb4c,Evan Christensen,Other,40,Fixed Deposit,34181.64,Chennai,482,Approved,158271.46,48,12-10-2024
+c58622b8-d2b0-435f-9aa8-5b0a984cacce,Nathan Lee,Other,57,Fixed Deposit,370819.2,Hyderabad,361,Rejected,97019.19,98,08-10-2024
+e0c87f57-ec68-4b18-be24-b70314bc577d,Gregory Rocha,Other,38,Fixed Deposit,287662.08,Hyderabad,715,Pending,85621.01,10,14-01-2025
+fc73c739-278c-45c5-8857-ae77d7899549,Chad Smith,Male,33,Savings,421072.56,Hyderabad,337,Rejected,67553.99,87,08-12-2024
+d40bdc54-f942-4779-bc4c-ff254d58b821,Andrea Kirk,Other,62,Recurring,70746.42,Delhi,606,Not Applied,22482.02,48,09-06-2025
+3e766deb-ca8f-4dc2-94a6-4c04cf99c23f,Teresa Haney,Other,35,Savings,397838.39,Bangalore,898,Not Applied,53364.72,20,20-12-2024
+fbab3bbe-19c0-44b3-b78e-69472cf75491,Renee Davis,Male,64,Recurring,101612.03,Kolkata,788,Rejected,56854.69,65,17-07-2024
+a532768a-ae14-4ee8-8ded-2c35205e0827,Laura Nelson,Other,41,Recurring,82664.32,Chennai,669,Not Applied,101974.64,62,11-09-2024
+23b97c1d-8772-42af-8260-57d01c8ce1e5,Sharon Ortiz,Other,43,Savings,82968.63,Hyderabad,484,Not Applied,152014.44,82,22-12-2024
+b8963c56-cc7e-47b1-8bb8-72f9aa9b2ba7,Kimberly Walker,Male,42,Current,407472.79,Bangalore,674,Rejected,100023.87,27,14-07-2024
+585dcb52-1356-450c-9f5c-c74540d81e1e,William Tapia,Male,62,Fixed Deposit,332933.41,Bangalore,616,Not Applied,20990.45,16,07-04-2025
+87ac3be7-88d0-4f05-8019-52537eae221b,Mrs. Jasmine Robinson MD,Female,58,Recurring,262009.65,Mumbai,556,Rejected,191980.06,5,24-05-2025
+4ca15982-f868-413f-984a-e0cdc4b1657d,Anna Myers,Female,46,Recurring,180056.41,Hyderabad,378,Rejected,189117.62,18,22-05-2025
+72a0a56b-6356-40cd-841c-54133b214582,Samantha Hansen,Female,32,Savings,438723.07,Delhi,832,Not Applied,159186.01,55,06-04-2025
+d97c40d5-c018-4b43-931e-ba8bf42a057f,Cody Castro,Other,62,Current,196830.11,Bangalore,570,Pending,198352.3,27,05-08-2024
+c558b8ff-3a8e-4921-9e68-07581da43175,Kathryn Padilla,Other,18,Fixed Deposit,408483.12,Kolkata,417,Rejected,113451.64,65,22-07-2024
+a69b5faf-7691-470a-a7ec-2fb19ce40999,Steve Garner,Other,42,Current,220128.32,Mumbai,521,Rejected,192925.99,37,25-10-2024
+de7970ee-d1b8-4eee-805a-2da87ff4273e,Heather Turner,Male,24,Fixed Deposit,189095.27,Bangalore,548,Pending,24364.96,36,02-06-2025
+b4f596aa-8e25-4767-9296-32f98759dcda,Jason Harvey,Other,26,Recurring,231877.21,Hyderabad,797,Not Applied,79479.34,67,17-06-2025
+730c6531-cd08-4579-969f-f074403a74ff,Austin Greene,Female,41,Recurring,151387.56,Hyderabad,740,Approved,52822.44,85,06-09-2024
+69a0d4df-ae29-41ec-aa0d-a260cf30c984,Jill Smith,Male,18,Savings,374057.08,Bangalore,762,Pending,47208.29,89,17-05-2025
+d8d59ed7-8c32-41dd-9b81-098082823db0,Austin Freeman,Male,61,Savings,251857.47,Kolkata,307,Approved,36752.56,48,02-01-2025
+bc725dd3-f08d-4bda-91dd-a478abaaeb7f,Diana Simmons,Male,25,Current,116874.13,Mumbai,550,Not Applied,128258.59,42,24-12-2024
+684f4eb0-01b3-4d4c-9824-d1b0acdf3497,Linda Parker,Female,41,Current,449887.71,Hyderabad,589,Rejected,158451.15,35,17-01-2025
+eb51b0a9-4cc7-44d8-b95d-27dfec66a3e1,Travis Jones,Female,28,Fixed Deposit,192561.72,Mumbai,312,Rejected,119876.7,57,18-05-2025
+120176e4-57c8-4ef7-a7fb-b24c62be888e,Ricky Mitchell,Female,68,Savings,272232.88,Delhi,456,Not Applied,37922.91,12,09-10-2024
+85ce27af-946b-41a1-bec3-b2bfc9c6ca82,James Lin,Male,34,Recurring,453329.58,Bangalore,756,Not Applied,164113.52,51,17-02-2025
+1d417859-b9c8-4bed-8ba7-b6800ccd2ee7,James Kelly,Male,25,Savings,312494.76,Hyderabad,382,Not Applied,130831.39,57,12-10-2024
+a63995d7-5751-4451-a63b-99dd49201041,Melinda Brown,Other,52,Current,59332.12,Delhi,621,Not Applied,83751.48,31,18-08-2024
+6e8d4b65-372e-4dd4-83ac-aa2801e466ec,Chelsea Brown,Other,52,Savings,469976.23,Mumbai,429,Not Applied,138084.76,80,10-10-2024
+31e9827f-35c4-40f8-9bcd-3e52acf814ac,Benjamin Carter,Female,50,Recurring,314226.32,Delhi,307,Not Applied,59381.95,99,28-11-2024
+aa57f312-88ef-4a1b-aefc-0427bef65552,Daniel Oconnor,Male,22,Savings,168117.9,Kolkata,445,Not Applied,75586.52,59,25-07-2024
+bb9f882d-43eb-455f-b56a-70a9564c1af1,Jasmine Edwards,Other,59,Current,70496.76,Chennai,886,Rejected,184322.31,82,18-11-2024
+eaff5fac-cd31-4e16-a88d-5d6ba74a7b6b,Marcia Hamilton,Female,56,Recurring,397218.57,Kolkata,781,Approved,65195.86,57,22-11-2024
+3625aaf1-cfbb-4816-9a60-1fb6c24cc6c7,Natalie Silva,Female,58,Fixed Deposit,310416.31,Mumbai,876,Approved,99297.77,98,28-01-2025
+f0c6cf21-47bb-4156-85cb-77f5c548fce0,Calvin Morgan,Other,45,Fixed Deposit,267197.08,Kolkata,593,Rejected,179126.82,55,21-12-2024
+57ea4e33-d444-4ebc-9aea-5dd5edbe32d6,Mr. Nicholas Brooks,Female,24,Recurring,447052.4,Hyderabad,366,Pending,144467.06,27,12-07-2024
+b8c30268-fc15-4355-a3e1-37b15e2af8d9,Vickie Perez,Male,26,Recurring,394510.01,Mumbai,629,Approved,21818.61,0,06-10-2024
+eb51b6e6-a9c8-4cc8-a81b-5f5e73adc780,Dawn Bentley,Female,25,Recurring,76685.76,Kolkata,573,Pending,37987.58,41,03-05-2025
+268011c7-6bcd-40c2-92f0-d0cf974a1647,Danielle Carter,Male,29,Current,156549.31,Bangalore,807,Rejected,11489.9,81,01-07-2025
+862d35e7-c7ab-4cf7-b6a5-4dff95725dcf,Ariel Adkins,Male,51,Recurring,124996.08,Bangalore,359,Pending,129875.14,47,24-10-2024
+7da9ffc7-916a-40ae-a0e2-e0f61a7239e7,Alicia Williams,Other,50,Current,372229.2,Kolkata,593,Rejected,95057.95,39,22-12-2024
+f7f3af79-478f-41fe-bf27-68f712a92473,James Davis,Other,65,Recurring,17732.68,Hyderabad,390,Not Applied,35512.22,96,25-12-2024
+4d60165e-51c4-4530-89a2-5ed00ed047fa,Amanda Navarro,Other,40,Current,285374.95,Hyderabad,495,Not Applied,192007.48,62,25-09-2024
+e3a90040-9c44-422c-847b-eff1e7425318,Christopher Edwards,Female,41,Current,381466.88,Delhi,742,Approved,110635.35,75,18-08-2024
+1ec9c529-88cb-45dd-9fd3-a11efa4ca825,Rebecca Cisneros,Other,54,Savings,438506.05,Hyderabad,586,Approved,55959.73,71,25-06-2025
+c2bf56db-67cb-4564-ab63-46c46bfb72d7,Michael Soto,Other,52,Fixed Deposit,171698.79,Mumbai,526,Pending,105114.68,87,30-11-2024
+f42007e1-483e-4033-8df8-a54e59d71269,Jake Schneider,Female,61,Recurring,410807.4,Bangalore,537,Pending,139127.86,79,31-10-2024
+58bb53c8-bc8c-4cd2-b4dd-b244f5d44ae5,Kristen Martinez,Other,57,Fixed Deposit,56205.24,Mumbai,576,Approved,24485.45,3,06-06-2025
+4e4f24d1-7a35-46c9-b771-01a79eae7c94,Michelle Patton,Female,39,Fixed Deposit,423379.69,Bangalore,771,Not Applied,62193.72,37,18-10-2024
+2c2aa3b7-0144-4568-a88a-668b74cc2f3a,Kimberly Gray,Female,44,Savings,64616.84,Chennai,835,Rejected,163323.44,26,17-10-2024
+7adf6137-5208-4bea-a221-94bbe1214cc0,Patrick Hall,Male,52,Fixed Deposit,199246.36,Hyderabad,873,Not Applied,97336.33,8,28-12-2024
+8c1a12e5-8ffa-49db-87cb-3ea7a9bb886e,Patrick Mckinney,Male,18,Fixed Deposit,398850.39,Kolkata,772,Approved,113849.66,15,21-07-2024
+c83f3cb0-8bab-4a17-9345-df45e948fa4e,Veronica Hartman,Other,52,Recurring,75808.8,Bangalore,489,Rejected,92235.04,55,03-07-2025
+1597a739-0ee2-4720-9f32-516ddd15fe22,James Kennedy,Female,54,Current,115396.45,Kolkata,713,Pending,18340.99,75,21-03-2025
+efd32f21-af9d-48d0-b646-1aaac43465b5,Adrienne Bolton,Male,64,Recurring,361404.03,Chennai,563,Approved,41492.46,30,20-05-2025
+db432085-f680-47a9-9e68-51e12beced20,Ryan Morton,Male,31,Recurring,360298.23,Mumbai,453,Not Applied,94652.91,87,19-03-2025
+b3735bf9-e026-4f6f-a0e2-4640a9dbee19,Barbara Medina,Male,20,Fixed Deposit,320932.67,Kolkata,805,Pending,49745.24,13,02-02-2025
+e71d4c7f-d6d9-4135-8223-71aba75863f1,Leslie Wilson,Male,18,Fixed Deposit,347280.27,Bangalore,323,Pending,19496.02,24,03-08-2024
+768553c3-4999-4b6a-8cb2-ed9067be01e3,Caitlin Davis,Other,22,Recurring,271819.5,Chennai,841,Approved,170293.44,33,17-12-2024
+5cfb99f7-a895-4c75-9f0f-3fdcf0c0f6d7,Joshua Hopkins,Male,43,Recurring,126647.73,Bangalore,577,Not Applied,196426.58,66,30-05-2025
+49f85442-1dfc-48ef-87f7-1b8625d1fcdd,David Rasmussen,Other,31,Fixed Deposit,173502.3,Chennai,682,Approved,160697.15,23,11-11-2024
+50ef81e0-7d5b-4fe4-9271-1ba66520f5f1,Matthew Perez,Female,56,Current,91617.26,Hyderabad,696,Rejected,172219.14,72,22-09-2024
+f963b413-1fdf-40b5-9ec7-69286d6a35c6,Vanessa Thompson,Other,44,Current,454316.83,Hyderabad,837,Rejected,55975.65,25,02-05-2025
+f2753751-fd19-4506-a110-ebae7da7aee1,Justin Johnson,Male,26,Recurring,292112.51,Hyderabad,682,Pending,192519.13,19,02-05-2025
+a447f0ed-e8ce-452a-9faa-8daa87ee743f,Angela Barry,Female,32,Current,201024.86,Hyderabad,668,Not Applied,47415.88,63,06-07-2025
+ebe3e8d1-117c-4f64-89ec-7501350b2cd6,Paula Gaines,Female,32,Recurring,231540.9,Hyderabad,340,Rejected,190771.66,9,10-02-2025
+9b01f2a8-9827-4f4e-94a4-7cec5511decc,Alexandra Cox,Other,43,Savings,473694.39,Chennai,611,Rejected,199015.67,82,27-02-2025
+267e3ae5-3767-4b22-aabb-543a6df41dd7,Joshua Lee,Female,59,Fixed Deposit,77522.35,Bangalore,390,Rejected,145227.33,66,12-09-2024
+285cceaa-6567-4982-8bf6-d0a26abf285b,Michael Moyer,Other,30,Recurring,293528.69,Kolkata,742,Rejected,196417.31,23,16-08-2024
+f3bc0b1d-a12e-4568-a400-bf91127c7087,Jasmin Collins,Female,68,Recurring,253438.45,Mumbai,607,Approved,118212.56,4,14-11-2024
+be7a8e31-e5f6-4f17-8da3-8cd2b9539244,Rebecca Wright,Other,49,Recurring,306115.66,Mumbai,708,Pending,59312.94,66,17-09-2024
+ba40b7ba-a044-42cc-90a8-e8d2eab1f270,Jill Adams,Male,56,Current,10036.98,Chennai,325,Pending,93029.22,57,30-11-2024
+d8aa5c92-45d0-4e40-9a8e-0424b18358b0,Gregg Koch,Other,66,Recurring,436189.83,Bangalore,351,Rejected,122776.58,26,14-12-2024
+859f22eb-f072-48c3-ae19-5469cb33a041,Marvin Koch,Other,69,Savings,466127.02,Chennai,730,Pending,23885.5,79,23-05-2025
+799356ca-5f47-40f0-97ff-239d55183876,Stacy Newton,Male,49,Current,283001.46,Mumbai,343,Pending,128245.22,14,29-11-2024
+ed9d6e1d-cf27-44c8-a90f-6a0c3dceb6da,David Copeland,Other,21,Fixed Deposit,348628.76,Chennai,343,Pending,196423.79,34,05-03-2025
+9f8571e2-e622-468a-9db2-83d5fa2015ec,Karina Turner,Other,47,Savings,461327.19,Chennai,307,Pending,46120.45,75,16-12-2024
+be6836c2-27ac-4ed6-81b0-ec7bf8f14af9,Mark Harvey,Female,54,Recurring,353912.08,Hyderabad,874,Approved,160593.07,52,08-01-2025
+38d35e4c-9050-40c0-bc97-fa0170d53bf9,Brooke Pearson,Other,40,Savings,77116.98,Mumbai,743,Rejected,182500.77,43,28-06-2025
+98ea04b7-6285-4b52-af51-7d8648a516e6,Jay Davis,Female,56,Recurring,288567.89,Hyderabad,512,Not Applied,189303.3,25,28-08-2024
+9b544f20-f54e-493a-b934-84f584d7b090,Gabriel Carpenter,Male,62,Savings,303750.81,Hyderabad,478,Approved,192425.76,46,17-04-2025
+2197e0aa-4b98-4549-9fe4-e113c2c137cd,Joshua Johnson,Female,32,Current,212641.2,Kolkata,510,Pending,109077.33,33,06-11-2024
+2f8c173a-af8e-401b-9f61-ef1c6568c9a0,Cathy Bradshaw,Female,60,Recurring,368485.67,Chennai,765,Rejected,195688.5,86,03-06-2025
+b70b5242-eb3c-483e-a680-f9796b012845,Michael Colon,Male,46,Current,467249.14,Kolkata,697,Rejected,153888.94,94,08-08-2024
+80b269d5-3587-4b69-ad80-0f45e09deaaf,Sarah Bell,Female,53,Savings,462858.69,Chennai,411,Rejected,40717.57,49,12-10-2024
+95cbd51c-5713-435a-97d2-94adb70afa78,Elijah Matthews,Male,30,Recurring,225968.85,Bangalore,404,Rejected,100611.02,83,25-09-2024
+e9b718d1-068c-47bf-98dd-7312fc9dc44d,James Knapp,Other,49,Fixed Deposit,57505.78,Hyderabad,359,Pending,146482.92,11,21-02-2025
+92355e8b-e490-429b-bca4-789769deef3b,Taylor Fuentes,Other,24,Fixed Deposit,492435.76,Chennai,696,Rejected,56994.66,86,24-12-2024
+f02944d4-ced3-459b-b47f-a7092a2a3393,Jacqueline Lewis,Female,68,Recurring,419610.15,Chennai,759,Not Applied,131716.88,3,17-10-2024
+015bc6fb-cbc2-4a60-800e-369675bf5614,Marcus Lee,Other,39,Savings,63206.68,Delhi,459,Not Applied,136654.09,86,09-10-2024
+daa58729-8cdf-4355-a54a-2e55934bf483,Crystal Murray,Male,45,Fixed Deposit,460500.1,Bangalore,313,Rejected,40912.95,47,16-04-2025
+3d271e1f-edad-4f43-bfc3-2ace299510d7,Justin Collins,Other,19,Recurring,435078.28,Hyderabad,349,Pending,117366.21,54,18-04-2025
+2bc8f96b-8622-4d30-9010-d51667e46d77,Ruth Keith,Male,59,Fixed Deposit,259900.19,Bangalore,881,Not Applied,156609.11,0,29-12-2024
+8bccff72-9ab8-4f8a-b3df-7cf8b8045073,William Gray,Other,62,Recurring,296046.44,Kolkata,477,Not Applied,104790.18,88,06-10-2024
+3983fe58-0ca9-466f-a10d-2f99a9370813,Jennifer Santana,Female,23,Savings,200102.35,Kolkata,762,Not Applied,12299.59,65,14-06-2025
+f7522d8d-742b-4a2b-9fe9-d5a0f19d9725,Barry Acevedo,Other,45,Savings,28326.06,Chennai,675,Approved,11717.31,29,24-03-2025
+15dc7c44-5a07-4773-949c-b3e76f9d00c1,Ruth Massey,Other,45,Current,168263.42,Mumbai,529,Approved,77835.58,2,27-05-2025
+26670c61-25f1-4ff2-b3d0-a3539799a38f,Susan Mcintosh,Other,61,Fixed Deposit,401623.87,Chennai,423,Not Applied,185976.87,20,20-04-2025
+bcc5bb24-5e5f-4e66-b868-87b8a30e25cc,Tara Ramirez,Male,61,Current,3311.38,Delhi,373,Pending,53448.59,88,13-04-2025
+7753a7de-58ab-45a8-8e46-9abe2e09c7e1,Susan Wade,Male,37,Savings,167416.09,Chennai,669,Pending,130529.1,83,03-02-2025
+723b2cce-a613-4314-839a-e4e2f20ee6c0,Justin Brown,Female,47,Recurring,199686.18,Hyderabad,765,Not Applied,52194.42,48,20-12-2024
+da0185eb-bfc2-4a66-85df-5436f3c81c7b,Morgan Mendoza,Male,28,Savings,269160.41,Delhi,686,Not Applied,71117.3,85,24-02-2025
+90542573-a965-45d3-abcc-3681509616a4,Sheila Watts,Other,45,Savings,460007.95,Chennai,618,Pending,171128,84,04-11-2024
+6b20920b-7dd2-4efc-9d80-c2ad13e8651f,Yvonne Lucas,Other,42,Recurring,173826.65,Kolkata,325,Approved,148483.67,61,25-01-2025
+f47a292c-4f7d-465f-99d7-ca48d9965515,Heather Torres,Male,56,Current,174129.65,Hyderabad,881,Approved,28125.86,96,30-03-2025
+06fde1a0-7732-47ce-80ef-dc72fdf6aff3,Samuel Reed,Other,50,Fixed Deposit,369013.12,Chennai,779,Not Applied,91453.38,37,22-08-2024
+55567082-ac9d-4158-a68b-cfefa965943a,Sheila Kim DDS,Female,18,Savings,226656.75,Hyderabad,476,Pending,15542.26,14,06-05-2025
+23d791fd-4bba-40ad-b8d9-2ccac4d80a62,Brent Benitez,Female,44,Savings,113077.81,Kolkata,888,Approved,101369.13,51,25-01-2025
+c056052d-0075-4184-bdcf-4c64ce35cf77,Danny Martin,Male,69,Fixed Deposit,226767.32,Mumbai,661,Not Applied,135862.46,78,14-05-2025
+9073e184-ffe1-482d-bab7-758f2e72cfba,Tonya Lynn PhD,Male,30,Savings,71287.65,Mumbai,649,Rejected,32515.5,45,14-05-2025
+ef5eea71-dbf7-40bc-b1f1-8a33be1b86cf,James Nelson,Female,58,Fixed Deposit,89017.11,Bangalore,749,Not Applied,64888.14,24,15-02-2025
+43b8ebe8-26e3-4992-8863-78794da02b78,Amy Kim,Female,20,Fixed Deposit,249685.52,Chennai,787,Rejected,85588.96,20,10-04-2025
+8ada1f7d-1327-4949-9eed-f141178cf403,Stephen Miller,Male,56,Fixed Deposit,210043.8,Bangalore,694,Not Applied,184710.89,87,28-05-2025
+76f964c2-e92c-48c2-a739-7feb0dfda8ff,Diana Hunter,Male,23,Recurring,457508.1,Hyderabad,377,Pending,198718.45,4,23-06-2025
+5d570891-af1b-4cca-8c2e-ab6897b7bd6f,Terry Gonzalez,Male,25,Current,181834.56,Chennai,503,Pending,18533.15,69,22-07-2024
+9f2c65bd-1e7a-4a47-8f4d-e29b0e6ad3ec,Olivia Lewis,Other,44,Current,290713.59,Mumbai,857,Pending,154591.51,46,15-10-2024
+e5f5db00-8403-47f8-9ea1-55902a13186b,Melissa Short,Male,26,Recurring,316499.88,Delhi,435,Pending,80627.57,86,09-02-2025
+a2831074-a1e9-4311-82e2-2e7f2723bd43,Jonathan Brady,Male,54,Current,7534.13,Bangalore,523,Rejected,84567.06,67,19-04-2025
+9335347b-6a28-407b-96d9-d2036f33148a,Cheyenne Clements,Other,50,Current,332105.15,Hyderabad,559,Not Applied,153310.34,90,22-10-2024
+e6f0bbe8-1bb8-4eaf-92a3-ba6f94bfd5b2,Karen Perez,Female,68,Current,89839.95,Bangalore,564,Pending,184501.02,17,15-05-2025
+708f7a10-0d8d-4f10-a451-8b8729ff511b,Audrey Gray,Male,59,Savings,480574.09,Mumbai,668,Approved,190676.43,20,09-12-2024
+8c2fcdd0-2755-4358-ae96-34fc11d2a821,Edward Cameron,Other,61,Recurring,75182.7,Mumbai,866,Approved,119653.29,91,31-03-2025
+8e903b35-b22c-4747-b626-9dec448747b6,April Wiggins,Male,41,Current,207897.44,Delhi,444,Approved,77853.02,98,15-08-2024
+a98c7700-448d-4fd9-9125-90a0af5a19a7,Gina Morgan,Male,32,Recurring,43589.48,Hyderabad,373,Not Applied,159634.33,85,16-06-2025
+0d91b884-bd3f-416f-a617-8e859f05cd73,Bianca Peterson,Other,49,Current,498440.25,Bangalore,418,Approved,57690.26,22,28-11-2024
+619af799-02e0-4b93-8a05-934e0363634a,Patrick Bowers,Female,49,Current,251595.31,Mumbai,832,Approved,117174.07,63,07-03-2025
+4f50449c-65f2-440f-bc61-5b0256da3077,Wendy Long,Other,41,Recurring,298097.12,Hyderabad,687,Rejected,78129.91,66,01-11-2024
+64456ff5-98b1-4f4c-beef-89705a3bd03c,Elizabeth Johnson,Male,58,Fixed Deposit,34471.16,Mumbai,472,Not Applied,134759.9,39,22-02-2025
+036ab280-2ce7-48c2-9a41-bc9f5f08ca24,Michael Leon,Female,69,Recurring,375230.27,Delhi,790,Not Applied,55675.79,9,13-07-2024
+f3de8568-7fd9-4233-983e-ae5970ade6a0,Jennifer Barker,Other,66,Fixed Deposit,105742.89,Delhi,817,Approved,46402.66,88,16-10-2024
+6086d4f1-5164-4829-9e87-e060229cb712,Carla White,Other,66,Savings,449129.09,Kolkata,808,Not Applied,184465.43,51,04-09-2024
+bd3df220-19fe-4c47-bf9f-466c340f308f,Michael Wright,Female,69,Recurring,103364.68,Chennai,851,Rejected,29342.7,71,20-09-2024
+f9b0790d-27e5-4e03-bef1-6cfce5d89903,Todd Lane,Male,29,Fixed Deposit,96153.17,Hyderabad,451,Rejected,106132,74,12-09-2024
+c3a857a0-d2e8-4645-9d3f-cfae7a4be171,Richard Daugherty,Other,56,Current,19238.28,Kolkata,753,Pending,51962.03,60,27-08-2024
+4981de42-8ed3-44b6-8cbb-32622f733400,Linda Mays,Other,19,Savings,236561.41,Delhi,576,Rejected,17396.69,63,01-12-2024
+11149297-dccc-4b3b-80a7-8728acda8b3f,Cindy Mendoza,Other,20,Recurring,282855.73,Hyderabad,805,Pending,16843.58,4,24-02-2025
+f5b4bda4-f520-43a1-89af-667138f00591,Seth Wiley,Male,66,Fixed Deposit,33788.61,Mumbai,737,Approved,43292.14,52,11-12-2024
+79be8368-4d88-47ce-a4de-ac406c5894db,Bruce Hill,Other,54,Fixed Deposit,387988.28,Delhi,766,Pending,174686.37,54,27-12-2024
+aed205a2-0513-4889-b322-d47135fc41c5,Joseph Allen,Female,66,Recurring,227191.13,Bangalore,694,Pending,63670.96,36,01-12-2024
+f24fbb22-7985-4b67-b0b2-f4c9cd86116e,Wendy Sullivan,Female,34,Fixed Deposit,262670.74,Mumbai,406,Approved,190587.24,55,03-04-2025
+824a637b-b34e-450b-9698-c310639ea25d,Sarah Jackson,Other,66,Recurring,220940.61,Kolkata,627,Pending,120508.24,58,28-10-2024
+d7e06d3d-5dda-4397-a0ae-4923e59206d3,William Hernandez,Other,19,Fixed Deposit,200980.77,Hyderabad,891,Rejected,92956.7,92,17-04-2025
+4d743a8f-cb71-40f0-b365-39bf158d8d19,Christopher Fox,Female,19,Current,280260.53,Kolkata,862,Approved,120216.88,68,18-01-2025
+7ca6eb4f-90a4-41bf-8d84-bed1835a0d55,Michael Rosales,Female,45,Recurring,78464.88,Kolkata,326,Not Applied,108172.69,72,02-06-2025
+39d6edb1-d684-4850-a523-115724577b3f,Jenny Dean,Other,40,Recurring,91782.14,Hyderabad,399,Pending,154167.49,58,04-08-2024
+e96bacd1-de7f-4761-9869-6bbb56b34f5d,Michael Henry,Female,54,Savings,431031.02,Mumbai,379,Rejected,63674.25,1,10-02-2025
+e84f98c6-cf3c-48ea-bb11-c29835508c44,Wendy Williams,Male,49,Current,473111.62,Chennai,736,Not Applied,77079.57,64,13-08-2024
+e861cb8e-0aeb-4f68-8980-babe5fe4fc01,Edward West,Male,50,Recurring,187281.35,Chennai,791,Approved,179877.92,59,28-02-2025
+7dd78c10-b171-4601-bf5c-dda16ba388cd,Kelsey Alvarez,Male,18,Fixed Deposit,136101.59,Chennai,428,Approved,189826.74,50,22-12-2024
+429c6510-839d-4e33-a65f-e246eb426854,Timothy Byrd,Male,36,Fixed Deposit,322355.77,Hyderabad,604,Approved,179586.06,29,11-01-2025
+920f443e-e297-415c-b67f-b17a46d48186,Margaret Collier,Female,19,Fixed Deposit,204958.35,Delhi,804,Rejected,89695.12,10,16-09-2024
+2a25e79e-779a-430a-b7fc-06832a15c968,Mr. Jesse Arnold,Male,61,Savings,13667.79,Delhi,740,Not Applied,158269.45,91,16-05-2025
+9432d611-c387-492d-b0df-4f51aaf26d74,Melissa Adams,Other,43,Recurring,78920.15,Hyderabad,625,Approved,100503.79,75,24-12-2024
+74218b97-b3b1-464f-980f-94797c2f0d19,Tony Davis,Other,49,Fixed Deposit,358270.14,Bangalore,654,Rejected,104532.57,38,11-08-2024
+880ce116-1a52-4401-b360-bbf44ab15829,Sara Wilkerson,Male,23,Savings,329803.05,Mumbai,605,Rejected,48889.22,89,10-01-2025
+eb28a687-9495-4417-b961-65628dce7cc7,Stephanie Waters,Other,49,Savings,14520.9,Bangalore,479,Not Applied,122314.76,76,28-04-2025
+e70cde29-ed34-4ceb-8b9f-065c0e38d471,Kimberly Newman,Male,21,Recurring,111764.11,Hyderabad,639,Approved,45365.82,71,13-04-2025
+4544e94d-2e5e-4125-a6c8-8eeaeddabbb7,Lauren Moore,Male,28,Fixed Deposit,116306.32,Hyderabad,713,Approved,72997.29,62,13-12-2024
+3bdaf145-5704-46b1-96d0-aaf871169fb5,Karen Thompson,Male,34,Current,336274.48,Delhi,824,Pending,172455.74,63,20-11-2024
+d330f985-7131-4948-87d9-8fe164009da0,Joanna Lee,Other,55,Fixed Deposit,10835.56,Mumbai,682,Approved,49344.4,60,06-07-2024
+80d150db-0b59-43e7-ae3f-0df7a458910d,Tracy Nelson,Other,41,Current,52950.18,Kolkata,757,Not Applied,23520.07,53,30-07-2024
+c4ca78ed-a522-4ad0-bf62-46b039262c6f,Taylor Jensen,Male,22,Current,400158.13,Mumbai,396,Rejected,23111.44,91,24-03-2025
+1ef52e74-bb8f-409f-a08e-0c9e135a16b8,Blake Wright,Male,69,Fixed Deposit,90093.79,Delhi,577,Not Applied,188749.06,93,12-09-2024
+499a1cbb-00f6-4353-9bd8-11f0fa34462d,Susan Elliott,Male,51,Current,326720.31,Kolkata,306,Approved,106314.88,72,22-11-2024
+3a5bfd78-0edf-4a0f-a15c-e1c391d7de0b,Luis Jones,Male,23,Savings,119853.21,Kolkata,448,Rejected,87788.29,94,04-12-2024
+a9939c9a-7acc-4120-97c5-3d8d0d252c97,Gregory Evans,Female,39,Savings,50621.25,Mumbai,736,Not Applied,164066.93,57,30-09-2024
+bad0ccdc-2839-46d9-ac18-d3423029360b,Daniel Dunn,Male,28,Fixed Deposit,122342.92,Hyderabad,895,Approved,168806.93,84,11-07-2024
+52fd0cc3-cb64-4eaa-b057-f1cf7896338c,Carolyn Williams,Other,65,Recurring,361411.2,Chennai,360,Approved,73116.3,55,28-11-2024
+2c0edb99-3735-4fa3-86ce-b995757818b5,Arthur Griffin,Male,33,Savings,427992.54,Delhi,541,Approved,141787.43,33,24-02-2025
+4b22a746-7e0c-498d-9c10-8e668e564600,Rebekah Mueller,Female,50,Fixed Deposit,415279.71,Delhi,780,Pending,156513.34,30,16-03-2025
+e96848c1-7057-49fd-bf04-134048756cd9,Rachel Jimenez,Other,26,Current,199194.58,Chennai,422,Pending,134383.63,51,26-03-2025
+b7f2f12b-2d0d-4a8a-8220-bb533f07514e,Kelly Mckee,Female,23,Savings,334374.48,Bangalore,633,Pending,38803.06,88,16-11-2024
+858c8c0a-6093-40a3-b38c-3c7ab900491e,Maria Lawson,Male,33,Fixed Deposit,103287.16,Bangalore,740,Rejected,176417.79,75,02-03-2025
+058a9bd1-53c8-4e84-b3c7-44b7b16f584d,Paul Shaw,Other,46,Fixed Deposit,147280.72,Delhi,670,Not Applied,112427.97,0,13-02-2025
+6406ae2a-7f6b-4777-b28e-4d5cee79ab70,Kyle Levy,Male,20,Recurring,448271.57,Chennai,413,Rejected,63669.76,54,19-01-2025
+8ee74ce5-582d-496f-86e0-62b36502c70d,Audrey Ray,Other,37,Current,7487.96,Chennai,513,Rejected,90793.36,21,29-11-2024
+9cbf59c1-365f-467b-8f2d-aea28afe9681,Bradley Hayden,Other,53,Current,43668.76,Kolkata,770,Approved,17138.51,39,14-12-2024
+9f98b92a-c7d0-4a29-95ff-deb09cce5c67,Isaac Holden,Other,36,Current,104735.24,Hyderabad,633,Approved,34294.69,0,27-02-2025
+03b5f34f-5567-4c5a-b4b1-b478a2983863,Veronica Mccormick,Female,43,Fixed Deposit,14239.57,Bangalore,303,Rejected,155453.88,64,02-01-2025
+27228ea0-5998-43c0-8e70-aead91258da1,Daniel Martinez,Male,20,Fixed Deposit,91536.28,Bangalore,757,Not Applied,10002.21,62,02-03-2025
+6d389145-b495-4074-b6d5-22c45599c59f,Sue Nelson,Female,36,Current,291937.74,Kolkata,321,Pending,89147.51,53,10-08-2024
+dfa562d8-c7c3-4c7e-8e59-f662df1ad2c8,Lisa Johnson,Female,37,Fixed Deposit,211290.85,Mumbai,747,Rejected,109276.93,41,02-04-2025
+c9c5e3bd-3ba7-4b9b-8df6-7a107df1b98e,Felicia Harper,Male,49,Recurring,446443.18,Bangalore,421,Rejected,20380.54,20,04-05-2025
+bb6b0b2b-5a7a-4bba-8ad4-530d971f487d,Jared Davis,Male,24,Fixed Deposit,408904.34,Kolkata,875,Not Applied,194884.85,78,18-01-2025
+1c9d74c1-a0fd-4271-b96c-17bd35ec1358,Noah Bright,Male,69,Fixed Deposit,171566.86,Chennai,521,Not Applied,52963.81,80,16-03-2025
+fa2de0b7-f232-4ddd-833f-95b0fb8d18fc,Kaitlin Burns,Other,58,Savings,130452.29,Mumbai,496,Rejected,67797.76,21,19-01-2025
+31f0ecf8-502e-4097-a524-a09c76e92b69,Katie Martin,Female,50,Recurring,190466.51,Delhi,389,Approved,67749.08,37,21-06-2025
+8881eff9-550e-4f3f-b2bf-3e0497c49809,Rhonda Brown,Female,57,Savings,295557.18,Chennai,483,Approved,53779.17,98,14-12-2024
+f9542543-218e-4345-bfaf-72b7b1c9865d,Stacy Barnes,Female,56,Current,134763.76,Mumbai,826,Rejected,10280.03,79,06-07-2024
+113e24bc-c286-487c-a696-b7a3e5823737,Kelsey Weeks,Female,35,Current,312450.31,Hyderabad,898,Approved,148575.51,7,18-12-2024
+109da62e-ece0-44b3-921e-e76ddfbca8c4,Elizabeth Cox,Female,57,Recurring,205296.41,Kolkata,521,Not Applied,193700.64,61,06-03-2025
+7629beea-1ac6-4737-83d2-8b60119ab414,Jackie Reynolds,Other,18,Fixed Deposit,276471.54,Hyderabad,569,Pending,52615.76,46,05-07-2025
+be44b149-5bf3-4202-8e4f-78fa37d28858,Katie Ryan,Male,28,Savings,218627.14,Chennai,733,Not Applied,135978.97,16,13-02-2025
+73c71aff-d57a-4f0e-b288-5d96c03e92b9,Christina Rodriguez,Other,45,Recurring,147938.41,Hyderabad,832,Pending,150960.3,16,27-12-2024
+e6bb4d9d-27ad-411f-80ff-38822bcaf97c,Kristine Vang,Other,42,Savings,474278.2,Mumbai,656,Rejected,171200.82,89,30-08-2024
+ccfea704-23c5-45d1-9841-4413952d6059,Jordan Adams,Other,67,Fixed Deposit,382039.29,Delhi,535,Rejected,90299.55,12,15-05-2025
+fbe6006f-058a-4fc5-b5ad-df178e9f5bec,Robin Williams,Male,40,Savings,70916.47,Hyderabad,548,Pending,67556.87,16,16-12-2024
+9134fd14-85a5-4fcb-aaa3-4377b5d635dc,Cheryl Craig,Male,48,Recurring,434365.52,Chennai,717,Approved,71806.08,37,15-03-2025
+c8116a53-7b8e-406c-8e28-7f8b2ad149e0,Tina Fleming,Female,47,Fixed Deposit,244228.17,Chennai,302,Rejected,145398.05,80,21-07-2024
+7b295592-a6d2-44b3-b346-c9236583e2b1,Jacqueline Foster,Other,59,Fixed Deposit,447381.56,Bangalore,672,Pending,165188.1,77,06-11-2024
+a7bf12d8-1809-42a0-938f-fe0be3bd76aa,Christine Martinez,Female,52,Recurring,400127.77,Hyderabad,513,Approved,44506.65,44,30-05-2025
+12420c26-4b1c-4f39-8a31-b9ff360db692,Tracy Hughes,Male,24,Fixed Deposit,213181.54,Mumbai,777,Pending,80478.79,5,27-05-2025
+b29ef27f-7dce-4985-aadd-be579c2ef8fb,Brenda Garcia,Male,33,Savings,12212.18,Mumbai,356,Rejected,181368.64,34,18-10-2024
+a17c83f8-d26c-4874-b446-438caf9ea18b,Laura Ali,Male,43,Current,135070,Bangalore,653,Rejected,163271.77,13,15-12-2024
+09dda916-c411-4efa-9355-616c12f9fbd4,John Stone,Male,65,Recurring,271275.47,Hyderabad,589,Not Applied,197123.1,71,18-09-2024
+ea652710-cfd2-4cc6-8bc7-ee70f7340ce6,Jeffery Moon,Other,69,Savings,317105.63,Kolkata,685,Pending,153307.17,60,24-04-2025
+d8a1771b-39ce-414d-bc24-fb201e391686,Erica Bell,Female,66,Fixed Deposit,129685.96,Kolkata,339,Approved,84707.09,14,14-01-2025
+651b6aec-66e2-4934-8446-e9f3b892bd62,Desiree Patton,Male,19,Current,70538.68,Bangalore,648,Rejected,122221.19,53,24-01-2025
+3e13d53f-674a-4b13-9477-3f8656c66b4e,Clinton Sanchez,Female,18,Savings,417630.19,Chennai,637,Not Applied,135592.71,26,01-08-2024
+6686d8a6-9c54-4026-8762-2e581dfe4f09,Kenneth Schultz,Male,65,Recurring,492216.69,Delhi,636,Not Applied,24906.61,12,07-01-2025
+d5848d80-b5fa-4182-ad8d-38d2dff0dadb,Jennifer Bridges,Female,29,Fixed Deposit,263319.4,Kolkata,662,Approved,113454.42,30,06-12-2024
+50ca9071-fd38-4231-ab08-a5131b18be17,Robert Miller,Female,22,Recurring,86667.96,Hyderabad,706,Rejected,144770.96,34,26-07-2024
+e64037f5-9e18-4919-9957-e554218e4865,Denise Underwood,Male,54,Savings,136881.36,Delhi,783,Not Applied,41791.05,59,16-12-2024
+e11160ca-4231-44f3-acb7-934384d13097,Isaac Parker,Male,49,Current,10176.95,Mumbai,462,Approved,158320.03,5,22-03-2025
+d22dcbc8-9acb-4456-821e-5afac21ef581,Miss Caitlin White,Female,26,Savings,457235.1,Mumbai,795,Approved,120916.83,68,10-10-2024
+316fef26-1f25-4f5e-8062-4440788020a3,John Barry,Other,58,Savings,59757.79,Kolkata,599,Pending,190922.14,85,12-01-2025
+a4413e5e-0a46-448f-a946-99d42563c3fb,Adam Wallace,Male,52,Fixed Deposit,288681.72,Chennai,346,Pending,18060.24,57,25-05-2025
+79bbdb4f-78fd-45b4-a330-9524bb49d3b7,William Rodriguez,Male,36,Recurring,137753.56,Mumbai,335,Rejected,60411.97,48,19-08-2024
+69866582-da16-4ff6-b9a2-93986fb7c189,Brandon Bishop,Other,65,Savings,277534.82,Delhi,501,Not Applied,124295.24,22,23-04-2025
+c062135a-b06b-447c-be96-f9b0a1d1e0f5,Beth Lamb,Other,33,Savings,326058.77,Chennai,771,Not Applied,66346.38,88,23-04-2025
+0d78d9a3-9ea1-4dc2-b3b8-09054730aea3,Tracie Jenkins,Male,20,Current,415041.16,Kolkata,725,Pending,145740.59,33,21-11-2024
+07afabf1-4e02-413a-8180-bdccd16157b8,Julie Burke,Male,37,Current,104004.21,Mumbai,773,Rejected,154211,25,15-04-2025
+c4ab20fe-fd2b-4b80-9c0c-85f3ef3b9359,Michael English,Male,41,Recurring,6486.92,Kolkata,610,Not Applied,29478.03,46,08-02-2025
+66e34522-63b4-4af1-9bc1-28d3fae24cb6,Louis Roberts,Male,50,Recurring,69305.93,Chennai,564,Approved,107632.35,4,29-05-2025
+ccc5dd9f-ee51-49bf-9db4-1afab1499d67,Kelli Brown,Female,41,Fixed Deposit,450109.3,Chennai,388,Approved,106689.21,89,18-04-2025
+8f599c4b-9e3b-4524-9768-69e584cad61c,Victoria Roach,Female,69,Recurring,437071.15,Chennai,497,Approved,80163.35,19,13-12-2024
+772ab260-0349-4902-b698-bd54cc17393a,Valerie Peters,Female,28,Current,299109.14,Bangalore,560,Approved,187255.72,5,23-11-2024
+ddf532d3-002a-4684-bf6a-3a1c17566b28,Jason Nelson,Male,66,Recurring,300657.91,Hyderabad,353,Pending,167226.2,69,12-05-2025
+0b10ad9c-5509-40c9-b0ea-1f693a8e9dfb,Savannah Santana,Female,25,Savings,332853.3,Bangalore,432,Rejected,142469.78,58,02-05-2025
+ce72c85b-4f6d-4b3d-aff8-f99f306c1ffc,Joseph Johnson,Male,53,Recurring,88510.27,Delhi,659,Approved,145722.06,63,23-02-2025
+5f1493bf-7fa0-488c-8dd3-ead2b96f10e5,Ashley Hancock,Male,55,Recurring,457291.56,Chennai,741,Approved,97726.07,17,01-01-2025
+c18e77d5-ee9c-4ab1-8fd7-1dd1465724c4,Christine Hill,Female,57,Fixed Deposit,209966.49,Hyderabad,899,Not Applied,184988.96,3,29-09-2024
+1e20cddd-68fa-4bea-a479-0432b7b528fa,Andrea Juarez,Male,37,Savings,192186.13,Chennai,860,Pending,141973.13,16,01-12-2024
+849db895-798d-4821-b503-1d3bbe92f906,Jason Lewis,Female,52,Fixed Deposit,259939.93,Hyderabad,686,Not Applied,148506.4,13,20-06-2025
+deabb4c8-b2f2-4305-99dd-bac0760d45de,Brandy Rose,Female,65,Current,24436.02,Mumbai,553,Not Applied,173721.27,77,06-10-2024
+0858ff25-fafe-4852-9f69-3be07bdae542,Lauren Kelley,Female,42,Recurring,83975.4,Delhi,682,Not Applied,62073.6,12,28-07-2024
+cde41d7e-5eb7-497f-b3af-033965fcc512,Mark Jackson,Female,52,Recurring,369278.77,Hyderabad,771,Approved,163343.47,6,08-08-2024
+f4e28ccb-86b7-4b48-b628-82cc816f7cdf,Christina Bradshaw,Female,42,Current,42316.54,Delhi,371,Rejected,47095.71,43,06-02-2025
+56502b64-29da-4022-bf82-ab92a275cd42,Linda Carlson,Other,46,Fixed Deposit,301972.9,Kolkata,546,Pending,75614.97,14,01-06-2025
+59c667c6-7bea-40f6-832d-a08153aa21ab,April Galloway,Other,35,Savings,123429.21,Chennai,804,Approved,73765.99,18,05-12-2024
+753ad179-e913-4240-8a11-64a4209a8785,Kimberly Turner,Other,63,Fixed Deposit,195258.51,Mumbai,530,Pending,195919.84,62,03-01-2025
+0c2e5568-ef16-4cdd-ba26-3741e9312746,Jesus Proctor,Other,35,Fixed Deposit,145058.17,Kolkata,643,Approved,172742.07,34,19-09-2024
+1820ce34-6cdc-4c1c-bd51-d80b8a505c39,John Sandoval,Other,19,Savings,178480.69,Hyderabad,653,Rejected,143222.27,80,25-10-2024
+ac47ee25-d82e-4f45-a0be-c1e563841222,Kim Olson,Female,52,Recurring,359803.91,Bangalore,411,Rejected,148140.78,34,30-01-2025
+30d87f64-32fa-4888-bfae-7740f867fc39,Ashley Rocha,Male,33,Fixed Deposit,149263.74,Hyderabad,517,Pending,116793.83,18,22-07-2024
+e28bea9d-92ff-40f6-a57e-b7788e0d58d5,Ryan Delgado,Male,58,Current,283635.92,Chennai,501,Not Applied,189947.23,19,27-07-2024
+990818b0-7deb-4200-b9ae-834eaceaef7f,Robert Morris,Female,53,Savings,238549.15,Hyderabad,316,Approved,104289.16,99,13-06-2025
+b80185b5-23c3-47d2-9a1e-4318e8addb97,Ryan Anderson,Male,50,Recurring,332171.91,Delhi,315,Pending,82298.36,34,16-03-2025
+4319639a-2646-4234-8b69-a10077aeba76,Amanda Salas,Male,21,Savings,468478.04,Hyderabad,799,Not Applied,40976.71,31,23-02-2025
+96680383-8bb0-42b4-930b-c0e71369c674,Jordan Lane,Other,50,Current,366553.48,Chennai,464,Rejected,159379.07,47,17-02-2025
+cbf1911a-b4b2-4f3e-8fa0-6f1346ed7aab,Ashley Edwards,Other,31,Savings,108255.25,Chennai,611,Approved,149544.35,43,09-03-2025
+7e3f4bc7-8486-497e-81b7-be0032e00ce1,Raymond Vance,Other,38,Savings,16560.38,Bangalore,479,Rejected,83027.46,23,29-10-2024
+72fc4ac9-10c1-451b-91b5-907d1b88e2c8,Samantha Sanders,Male,65,Fixed Deposit,131869.76,Mumbai,864,Approved,14786.75,60,21-03-2025
+87825e0e-0461-4172-9623-89e84b06feae,Katelyn Wallace,Other,37,Current,297943.89,Mumbai,456,Not Applied,169409.49,16,05-10-2024
+20b79588-da6b-4089-983c-901503529813,Tammy Williams,Female,25,Current,26661.48,Mumbai,558,Approved,12169.42,70,11-11-2024
+406eb62b-ed5a-4e84-8da4-c1ee24678d06,Jordan Rice,Male,24,Current,248686.76,Kolkata,824,Not Applied,143702.96,49,08-04-2025
+afe6a0f1-02bc-43d7-aa6d-06d4a832acfc,Joanna Sanchez,Male,20,Savings,298824.58,Mumbai,805,Approved,194348.85,64,18-08-2024
+cbee88ea-9558-4a5d-b105-9fa8dee83fb2,Randy Mccormick,Other,34,Current,167787.7,Kolkata,412,Pending,93155.65,98,06-12-2024
+5f7474d6-5bbe-4223-8c4b-6ce06d91baae,Susan Palmer,Female,50,Current,385685.19,Hyderabad,782,Rejected,54644.95,31,01-01-2025
+72c1fb64-e4d3-4604-aeb7-5d9fe30c9785,Sarah Wheeler,Other,65,Current,54192.53,Bangalore,575,Approved,143925.49,35,11-07-2024
+2ed39d19-7112-4433-98c2-201fed9d43ed,John Bradford,Other,29,Fixed Deposit,38493.75,Chennai,590,Approved,165254.35,12,01-11-2024
+c96b31c9-06c6-4f1f-94e5-5a0f24174791,Emily Browning,Male,68,Current,364366.19,Kolkata,380,Rejected,113821.76,69,09-01-2025
+cf5a6a74-89ac-4d80-94cb-aaffbdb4c4c3,Michelle Martinez,Male,39,Savings,248250.17,Hyderabad,348,Approved,193736.7,57,29-11-2024
+9cce7688-fae8-430d-a27c-eb09e775718a,Matthew Rodriguez,Other,39,Fixed Deposit,344512.8,Bangalore,737,Rejected,19817.06,13,16-11-2024
+b999ee43-c123-4037-ac53-625d916c20f2,Richard Franco,Male,63,Current,217978.84,Kolkata,598,Not Applied,105911.16,36,03-10-2024
+2049e480-05ae-4d1c-9610-8ca6ed693999,Deanna Russell,Male,47,Current,123954.61,Bangalore,562,Pending,146506.25,78,29-10-2024
+0ab122ca-a2e0-48ec-b62f-a1d802e3dddf,Lindsey James,Male,55,Fixed Deposit,409732.06,Hyderabad,738,Pending,173901.69,67,16-06-2025
+09416f38-37bc-4c44-81fc-c95f12a17720,David Boyd,Other,55,Current,399908.52,Mumbai,759,Rejected,44058.57,39,04-12-2024
+b7f50d72-b145-4637-8231-d333b43a6522,Anna Dean,Male,62,Savings,347653.54,Mumbai,395,Pending,162000.66,58,16-10-2024
+ddd8ca14-fd2b-4091-ba8e-3938625dac8d,Jeffrey Fuller PhD,Other,68,Savings,136800.42,Hyderabad,666,Rejected,115014.34,79,20-05-2025
+f3415924-df96-44c0-bc35-31f48452cd8b,Margaret Anderson,Male,25,Current,295525.1,Bangalore,381,Pending,85345.2,91,30-01-2025
+b068822e-86e6-4241-b758-c59e15173ad5,Ashley Morris,Female,44,Savings,181125.97,Delhi,751,Approved,35025.86,15,08-01-2025
+ad3a3b68-c3b0-4fef-a017-42a71426c44d,Kimberly Taylor,Male,44,Fixed Deposit,46699.45,Bangalore,694,Approved,174406.19,61,05-05-2025
+1f8cf9ec-64bf-470b-8e4f-45b14bdc8fd1,Emily Maldonado,Other,51,Current,458739.47,Kolkata,874,Pending,39881.91,3,22-01-2025
+2f752cb7-9dcb-42c1-ac58-ecece2def68c,Mrs. Jessica Williams DVM,Male,38,Fixed Deposit,69272.5,Bangalore,341,Not Applied,68859.69,44,04-08-2024
+9bbd1adc-fe4c-4113-8ae0-27ab5dafa171,Billy Hubbard,Other,47,Savings,475168.44,Hyderabad,334,Pending,65108.65,89,05-02-2025
+62f111f0-5d76-4e8f-b8fb-aca1b665d34c,Richard Miller,Other,50,Current,223556.88,Chennai,469,Approved,175568.67,27,19-08-2024
+32d7c1de-b426-4110-9c18-996a41655e5e,John Walker,Male,45,Fixed Deposit,93381.33,Delhi,457,Pending,137813.57,95,04-06-2025
+a802a7ef-2f56-4c8e-a007-0e5de9b503fa,Derek Mckinney,Other,64,Savings,271408.57,Bangalore,448,Approved,161369.47,65,01-11-2024
+392ea59c-6e2f-4c2e-9623-82bfc49e71e3,Marc Stone,Male,50,Current,436599.97,Delhi,844,Not Applied,57588.9,30,23-11-2024
+8e1c47fb-5531-4c26-9d06-7704ed6296fb,Daniel Johnson,Female,22,Recurring,366380.22,Delhi,450,Not Applied,128726.08,2,12-01-2025
+f7905d23-e048-49ca-b3dc-56c0c0f79c8d,Brittany Bowman,Other,65,Savings,403474.01,Bangalore,463,Pending,118631.74,7,18-12-2024
+dd5127fb-7d76-4e2d-a98b-cff8769b0a5d,Paul Olsen,Other,36,Savings,329732.9,Bangalore,756,Approved,168237.77,23,24-12-2024
+d3994d68-1429-48d2-88bc-2a06ddb8a170,Charles Camacho,Other,21,Recurring,346446.01,Mumbai,570,Not Applied,182156.54,14,15-02-2025
+f11d87d3-713b-4104-961a-037c52ae38e3,Denise Sosa,Other,52,Recurring,424748.63,Bangalore,766,Rejected,12309.79,42,05-11-2024
+63baccda-dd38-4119-81c6-22588e8da412,Angela Walker,Female,66,Fixed Deposit,125584.34,Bangalore,339,Pending,138063.78,30,04-07-2025
+1ad3c7cc-b4b7-4482-b7d9-af28ab2b730b,John Fleming,Female,34,Savings,245223.06,Mumbai,593,Rejected,19848.8,72,13-01-2025
+e68e6188-7ae1-4db5-b6c9-1bca2d79ebb4,Mary Cantu,Male,61,Recurring,111383.51,Mumbai,320,Pending,114283.15,44,24-09-2024
+3d4aad74-fdc1-467f-8b02-b4ab46282b47,Melissa Johnson,Other,45,Current,493846.34,Chennai,338,Approved,64650.22,65,12-12-2024
+7703f4c5-4cac-4a5b-b454-953736e321ed,April Morgan,Other,47,Savings,472085.61,Bangalore,844,Approved,68287.55,7,19-09-2024
+fbd816ef-89b8-4004-a68b-51a812d7dd68,Robert Cook,Female,46,Fixed Deposit,20673.98,Kolkata,384,Rejected,77062.12,70,06-10-2024
+c1818742-f5ea-44b8-8196-e1d80ea1f996,Alicia Ward,Male,63,Recurring,353082.01,Delhi,619,Approved,128045.57,56,19-12-2024
+79d3d4bf-6e8a-46b5-a4d3-d5a4a96a88ed,Roy Ramsey,Female,23,Savings,462698.91,Hyderabad,547,Approved,73469.49,79,04-03-2025
+b260af88-55c0-4434-8bcd-023ef43d05a6,Laura Williams,Female,52,Savings,91107.1,Mumbai,508,Approved,149212.82,98,27-10-2024
+76f01ded-f844-4d69-8622-eb82dfb00dff,Benjamin Evans,Male,58,Recurring,284404.67,Hyderabad,840,Rejected,86860.2,29,17-01-2025
+7bb35a70-326c-48ba-b071-054b7adf32be,Robert Robinson,Other,54,Recurring,457828.66,Bangalore,313,Approved,22987.11,73,05-08-2024
+132b0c3b-dbc4-4bbb-a57c-b2f6f8bb25f6,Erica Taylor,Other,41,Recurring,17939.04,Kolkata,698,Not Applied,158914.37,17,05-06-2025
+160e157d-41f1-4169-b1c1-5b0dcad63c11,Austin Ryan,Female,46,Savings,349012.71,Delhi,878,Pending,64294.08,68,18-01-2025
+601730a9-b67d-4edc-a510-4b03204237a2,Zachary Hood,Female,66,Recurring,149377.15,Bangalore,636,Not Applied,92225.71,92,11-07-2024
+47e87fe5-b38a-476d-a74c-64fae78dd464,Gregory Gibbs,Female,63,Recurring,462273.7,Kolkata,862,Rejected,140234.34,38,21-08-2024
+6617bfd4-c52d-449d-bffd-514076f06db9,Dr. Beverly Smith PhD,Male,48,Savings,485558.06,Delhi,331,Rejected,73166.67,59,10-06-2025
+1816ac92-bf32-4252-8b08-bb0be0a0b613,Julie Anderson,Male,52,Savings,472188.98,Kolkata,551,Approved,20751.27,97,30-10-2024
+8c893bd2-6dbe-4833-9372-6447b2569cd5,Cathy Wood,Female,50,Fixed Deposit,237632.89,Mumbai,456,Not Applied,81045,42,24-04-2025
+a75afd71-517d-47e6-b3ef-56a16131dc86,John Heath,Other,69,Current,431159.28,Bangalore,738,Rejected,189445.23,44,06-09-2024
+90ae8bf4-bb5b-4591-9ddb-45739452c979,Elizabeth Gonzalez,Other,38,Savings,422430.15,Kolkata,889,Pending,131929.54,22,09-03-2025
+e37f9ea8-8f2a-478d-b7b7-c422e8d80844,Ryan Fitzgerald,Male,49,Current,160231.14,Kolkata,454,Rejected,137581.04,68,23-10-2024
+39feddd9-15da-4e71-a3d2-9d59a8b7113a,Austin Hayden,Male,40,Fixed Deposit,414628.82,Bangalore,693,Not Applied,130133.61,93,28-09-2024
+9a317531-248c-498e-8bd4-de9127593d93,Donna Roy,Other,50,Fixed Deposit,19466.81,Delhi,419,Pending,47808.51,5,21-01-2025
+e2535137-f714-400a-8ce6-9e804296b3b2,Renee Wilcox,Male,20,Recurring,298538.67,Bangalore,639,Pending,89483.43,55,14-02-2025
+91fab95a-1da1-4f91-befc-6e4c515665f8,Anthony Wallace,Other,35,Fixed Deposit,115774.41,Kolkata,578,Approved,152678.56,3,13-01-2025
+0f850cb5-8c36-4d60-bf52-46fd4c2d48b4,Dr. Erin Howell,Female,42,Recurring,61162.88,Hyderabad,883,Pending,29260.85,92,25-04-2025
+ca2680a9-9918-4485-b34d-8ed98ad265b3,Carrie Kennedy,Male,59,Recurring,39399.65,Chennai,665,Approved,62792.03,22,05-08-2024
+aac8292b-ad3f-4343-8e16-594d9a877abb,Daniel Mccormick,Female,48,Savings,348448.1,Hyderabad,510,Approved,62500.63,5,19-09-2024
+a168c8e3-047b-4318-b1e2-23903ebae104,Gregory Stewart,Male,20,Savings,170597.61,Delhi,368,Rejected,92083.6,31,20-01-2025
+731e0214-6fd5-42fd-9dfe-5dcca04eb55c,Bradley Patterson,Male,57,Current,362658.62,Kolkata,391,Rejected,196270.06,17,23-04-2025
+11c106b2-0ac6-475e-993f-69012c474361,Christopher Jackson,Female,63,Recurring,33612.81,Chennai,435,Approved,22825.48,14,19-06-2025
+bacf4eaa-5d4f-4479-8d73-88b43b2cf7c5,Michael Anderson,Female,41,Recurring,158329.88,Delhi,451,Not Applied,108553.19,39,15-09-2024
+08e48953-3049-4b90-ba98-b654e5e143e3,Patrick Moore,Male,67,Current,270206.15,Hyderabad,810,Approved,44079.29,95,06-10-2024
+4c84ecdf-2333-4ffb-a039-41d7920774a9,Randy Atkins,Female,49,Recurring,395570.86,Mumbai,637,Not Applied,194428.54,72,11-11-2024
+a86182f0-c9af-4cae-9db9-55fb1bf1267b,Brianna Tucker,Other,64,Fixed Deposit,160057.5,Bangalore,614,Pending,31527.67,73,13-03-2025
+e481dfe6-762a-4c46-bab6-c68ff84a2907,Yolanda Glover,Other,39,Recurring,313319.8,Delhi,369,Pending,86684.19,83,18-05-2025
+bc67909a-c012-4397-8233-bbfa9ab6e6da,Emily Scott,Female,40,Recurring,443102.9,Delhi,816,Pending,150198.15,5,23-01-2025
+fb9d685d-448e-41cc-b442-3f856fb02aa5,Michael Hayes,Other,19,Recurring,308315.73,Kolkata,734,Approved,143865.34,62,10-11-2024
+7fe2e30c-7ec8-4eea-b783-1a04a555ca22,Kim Martinez,Other,44,Savings,117246.78,Chennai,341,Not Applied,90318.44,66,29-01-2025
+363be761-671d-4d2b-aa6f-c3879878aaad,Javier Thomas,Other,59,Fixed Deposit,13175.99,Hyderabad,725,Approved,75839.59,10,10-09-2024
+aadbc587-5322-4a49-8002-c8e195c42fb6,Nicholas Leblanc,Male,19,Recurring,435179.34,Delhi,626,Pending,85546.35,42,03-12-2024
+66b58efc-088f-4785-b1a8-014567b9dd3c,Andrew Carson,Other,43,Fixed Deposit,11613.44,Bangalore,349,Rejected,60212.49,16,01-06-2025
+3aca570d-f16f-4204-a120-a3c93ffcfd62,Andrew Johnson,Other,34,Fixed Deposit,437476.13,Delhi,575,Pending,49013.26,95,12-07-2024
+3dd3a4f2-539c-4427-81c3-b342f0baf86a,Carrie Smith,Female,57,Fixed Deposit,264939.63,Delhi,591,Pending,101777.54,3,10-08-2024
+73b1703d-84ae-45dd-af0b-247a5b2fc1ca,Leslie Sheppard,Other,50,Current,469594.78,Kolkata,399,Rejected,61021.41,62,15-04-2025
+4afc82e2-ffe0-47eb-81b9-3b5c13f517e0,Brooke Casey,Male,26,Recurring,399592.83,Delhi,867,Not Applied,64617.72,67,19-02-2025
+faaa0a66-0b99-4722-af69-e592ec6885a5,Stephen Reed,Male,60,Savings,498969.12,Chennai,810,Pending,134783.65,80,01-11-2024
+de95a1da-5601-4f44-b867-a12642449376,Douglas Torres,Female,65,Savings,176005.2,Kolkata,701,Not Applied,194022.09,40,16-06-2025
+48084527-f52e-4a61-9699-64da21df1ecf,Keith Miller,Male,56,Savings,383826.96,Mumbai,577,Rejected,124691.07,82,13-09-2024
+d63da0ec-60d2-4147-92f0-a1adf7f8d771,Christopher Simmons,Male,46,Savings,201563.53,Mumbai,547,Rejected,24626.1,4,15-01-2025
+e74e8d2b-103b-4255-8374-e19cc29ec16a,Christopher Murray,Other,59,Recurring,240457.93,Hyderabad,691,Rejected,24360.89,31,05-12-2024
+f916a0e1-0dc0-4d62-8043-fd5dcbc08b76,Chad Garcia,Other,43,Savings,314125.23,Hyderabad,627,Approved,190770.41,85,24-02-2025
+7a535ddd-685d-4dfa-ac9c-b0434c27ccb6,David Day,Male,52,Fixed Deposit,436964.88,Hyderabad,337,Not Applied,66485.25,69,07-09-2024
+92fae918-6d7b-427f-8c6f-bcfa003bf286,Brandi Fuentes,Female,67,Current,492057.65,Kolkata,608,Approved,27492.73,34,21-03-2025
+af8b4f64-d8df-4d69-abe8-0c1896c5b4f7,Shawn Everett,Female,42,Savings,384368.43,Chennai,784,Rejected,123818.47,21,18-05-2025
+19a249a6-c021-4cbc-9114-853aaaee8aa8,Edward Pearson,Other,41,Fixed Deposit,209465.62,Kolkata,576,Pending,128493.27,64,01-12-2024
+0902df11-e7ab-4529-9809-4ae98def47b7,Brittany Stout,Male,30,Savings,211257.14,Kolkata,331,Approved,133215.92,83,19-03-2025
+7940b024-e34b-4da4-9d05-7b11b1ccf2b9,Paul Melendez,Other,24,Recurring,369053.57,Kolkata,772,Pending,60806.39,21,21-09-2024
+1379cdaa-0a12-4419-b518-019e9a663dd2,Ryan Krueger,Female,53,Fixed Deposit,120149.8,Kolkata,421,Approved,12871.03,10,19-07-2024
+fb3636eb-6a63-4ab8-b072-a64b601e1098,George Rose,Male,62,Recurring,56126.58,Delhi,455,Not Applied,193352.92,76,22-07-2024
+3a470591-e631-4713-a982-57086c3516ac,Joshua Evans,Other,37,Savings,177956.46,Hyderabad,399,Pending,57669.68,2,11-07-2024
+9ef6bad9-cbe2-4ff0-9a9e-98d2230c6cdd,Shawn Reilly,Other,18,Fixed Deposit,144332.26,Hyderabad,498,Approved,138444.99,8,07-02-2025
+36d1dc5c-24e4-4890-af02-90e95862b391,Jeffery Walker,Female,25,Fixed Deposit,148857.75,Bangalore,754,Rejected,144259.68,59,30-10-2024
+683f112a-2922-434f-97e6-bbc4f1acd56b,Isabella Freeman,Other,63,Fixed Deposit,117570.27,Mumbai,612,Rejected,125901.41,75,04-10-2024
+1c1927e8-ea6e-479e-89a9-be55af8abae8,Denise Wheeler,Female,33,Savings,22004.5,Hyderabad,423,Not Applied,69452.4,86,23-07-2024
+6472c506-e366-4859-9009-fc3cc2158156,Richard Hamilton,Female,31,Current,,Chennai,827,Not Applied,61508.29,13,12-02-2025
+2852aaf8-447b-4792-958c-108b6c4a68d9,Margaret King,Male,29,Current,493873.47,Delhi,828,Approved,123556.97,96,15-04-2025
+27f21630-b420-4616-85cd-8688dc9ac24f,Tara Steele,Male,68,Recurring,214458.79,Mumbai,822,Rejected,174558.17,17,20-09-2024
+4f343c8a-2297-48b8-9d74-5dc68a4d955c,Daniel Lopez,Other,40,Current,192779,Bangalore,443,Pending,189879.41,72,31-05-2025
+49825133-ef49-42c7-8172-62872bd753c8,Julie Valdez,Female,32,Savings,340143.99,Kolkata,571,Approved,30122.1,22,04-12-2024
+4c5068f1-1b02-4a89-a870-1355ef776fe3,Shannon Monroe,Female,45,,109908.69,Bangalore,891,Approved,39417.44,73,27-01-2025
+87c8e83f-fce0-417c-8559-8541e109b01f,Nicole Johnson,Male,51,,475030.63,Mumbai,763,Rejected,189499.89,82,29-06-2025
+c639ac4d-1456-4fd6-8fc4-8d58ff9bc820,Matthew Randall,Male,19,Savings,393386.16,Hyderabad,316,Not Applied,149941.69,46,06-10-2024
+96ad1c94-8ed7-424e-9e30-74e9f77e4e66,Brent Ellis,Female,49,Fixed Deposit,45616.09,Mumbai,339,Pending,177768.83,68,14-04-2025
+0e376072-307c-48fc-81c3-bc9b74e667ac,Wayne Hughes,Male,40,Current,209372.81,Delhi,578,Not Applied,48500.2,46,07-11-2024
+b90f6732-2d11-475a-9332-3d0ab4ee4cb4,Jennifer Rosales,Other,39,Recurring,439680.04,Delhi,846,Approved,121641.32,86,16-05-2025
+02ccfa45-c6be-40f4-af7c-438184aa852f,Kathy Rogers,Female,68,Savings,472421.28,Chennai,623,Approved,143216.52,29,07-03-2025
+9e1f04b3-45fc-4e18-be12-79dcad124d96,Mary Ramirez,Male,42,Fixed Deposit,234233.35,Kolkata,599,Rejected,139221.26,24,14-12-2024
+1fcd1109-1a0c-4139-af12-818523a40cfc,Jason Downs,Other,39,Savings,307092.28,Hyderabad,363,Not Applied,87548.82,27,12-05-2025
+02be9a03-7d79-4837-a936-86892a016769,Kristin Grimes,Female,39,Current,84349.94,Hyderabad,694,Approved,12925.03,97,06-08-2024
+2b5ab161-9e66-4a30-826a-ea0c187a392e,William Lewis,Other,66,Fixed Deposit,495593.14,Bangalore,793,Approved,120755.95,24,02-04-2025
+2830ccd2-51a5-4834-a144-169f7716b1ae,Tammy Simon,Other,69,Fixed Deposit,116604.18,Kolkata,528,Not Applied,58089.29,73,21-03-2025
+c9c454f5-7d10-42f1-86e5-dcabad47a499,Patrick Warren,Female,59,Fixed Deposit,471423.16,Bangalore,765,Rejected,95548.31,77,25-08-2024
+461058c6-d882-4f3b-acfc-2e3a5246375b,Sharon Lopez,Other,23,Fixed Deposit,325173.68,Kolkata,879,Rejected,191940.39,57,06-04-2025
+284cc7ba-5823-4856-a3d5-5a4fef3171fa,Bryan Johnson,Male,32,Savings,304260.66,Mumbai,422,Pending,85816.71,93,11-08-2024
+b9f379fb-b814-41dd-878f-23976d6a04cc,Jonathan Barker,Male,60,Current,256831.57,Mumbai,614,Pending,169562.31,40,01-07-2025
+ad2c8eaa-4d04-416c-80b7-fde7c6cc8065,Michelle Gilmore,Male,54,Current,116104.24,Kolkata,472,Pending,45822.72,24,10-05-2025
+3f34a478-c23f-4d23-adb7-8544908a86a7,Stephanie Vaughan,Other,50,Recurring,89087.49,Chennai,776,Not Applied,137767.49,77,21-06-2025
+b01e77e7-082d-4d8b-885b-4c3928f1a720,Jonathan Garza,Male,25,Savings,111022.62,Mumbai,647,Pending,195631.32,98,10-07-2024
+93fd90d7-e242-4182-ad84-b49a33d78eff,Randy Marquez,Other,61,Current,94032.69,Chennai,681,Pending,29359.69,47,22-08-2024
+dc1231f4-26e2-422e-a2cd-52373a48e448,Kimberly Schwartz,Male,61,Savings,390012.65,Mumbai,779,Not Applied,11580.79,97,05-01-2025
+e2dae653-72ca-4464-a232-ceb5350505e1,Nathan Webb,Female,22,Savings,175712.5,Hyderabad,538,Pending,92380.73,9,29-03-2025
+8e7be72b-502f-4609-b448-0c4a0a6ded6f,Kaitlin Horn,Other,56,Current,29863.5,Delhi,849,Rejected,27598.84,98,13-04-2025
+278fd564-1a10-41a4-8ff8-b7c16db6382a,Jacqueline Jones,Other,21,Recurring,484582.21,Delhi,620,Approved,152193.03,74,03-01-2025
+41cc46de-a295-419b-ad49-67b31c677f14,Kathleen Fitzgerald,Male,23,Recurring,442009.16,Hyderabad,395,Rejected,183764.25,10,11-02-2025
+cb735931-bc54-487f-9698-7d2bbba9a74c,Robin Wilson,Female,62,Recurring,463948.39,Kolkata,718,Rejected,92463.98,84,11-09-2024
+b6188f9e-df90-4785-9b7f-8eaf110313ca,Amy Reid,Male,49,Fixed Deposit,497459,Bangalore,776,Approved,59155.21,20,10-07-2024
+3da5e185-299c-4a03-9b37-d5ed798d6732,Dr. John Munoz,Male,69,Current,87773.73,Delhi,490,Rejected,92536.63,85,16-08-2024
+081fed36-6a36-468b-bbec-c4d3a4ec7777,Rachel Huffman,Female,47,Fixed Deposit,198724.77,Mumbai,814,Approved,147455.09,44,14-11-2024
+b97a6f60-e3fb-47a4-b8bb-b2742181f688,Christine Daniel,Female,64,Fixed Deposit,379361,Mumbai,844,Rejected,11720.29,6,28-08-2024
+74f0adab-ed39-4ceb-80e6-9043f217d6c7,Daniel Harris,Male,52,Fixed Deposit,348314.29,Delhi,466,Not Applied,121996.26,80,07-04-2025
+854adca7-105f-467b-977f-c39b06be5e0d,Henry Williamson,Female,57,,77794.06,Delhi,890,Not Applied,126525.42,63,14-02-2025
+ae78a723-3741-469f-bdf3-526496d9a896,Becky Mayo,Male,69,Savings,408100.73,Bangalore,384,Pending,131160.77,63,02-12-2024
+23521dab-ee9d-4f01-9d59-af786b56330b,Amy Williams,Other,33,Current,112995.85,Delhi,421,Not Applied,55984.2,1,22-01-2025
+41de9fa1-ec85-4d07-a98f-0306d3a5da62,Kimberly Pearson,Male,30,Current,112684.99,Kolkata,411,Approved,145670.02,75,07-10-2024
+890d0d5f-4fb5-4df9-96c1-51061e30b56b,Earl Wolfe,Other,67,Savings,268950.24,Bangalore,836,Pending,27364.38,41,22-03-2025
+01d47387-81e8-4209-a19b-666aaf0a344e,Mary Miller,Male,59,Savings,296877.03,Hyderabad,693,Rejected,47861.36,81,08-08-2024
+e14bdbdf-6378-4fac-b9a6-6bdb00552a3d,Brian Michael,Female,47,Fixed Deposit,290463.02,Hyderabad,391,Not Applied,176719.31,53,23-12-2024
+55dfb8ae-df34-4819-a08f-d74ae8ab3c0d,Bethany Lopez,Other,36,Recurring,46651.93,Delhi,564,Pending,150357.4,74,07-03-2025
+33e941db-acda-4e4e-a31f-27001db9dab3,Vanessa Avery,Female,34,Recurring,438852.97,Mumbai,669,Not Applied,12611.66,15,07-09-2024
+09d5496b-7b7b-432a-8605-fea6e1915f20,Penny Ayala,Other,36,Recurring,133534.42,Hyderabad,350,Pending,57191.49,17,16-02-2025
+c2a38bf7-42f1-4fe1-976a-0ecf70f8a1cc,Devin Carter,Other,45,Recurring,65627.95,Delhi,829,Approved,50737.23,98,28-01-2025
+10f456e7-fee2-46ce-8136-0b75ffbdf274,Alexander Jensen,Male,43,Recurring,444485.29,Kolkata,782,Approved,61453.2,58,20-01-2025
+a2f3369e-2fb2-4aea-abb5-a57bebccd877,Cynthia Hernandez,Male,54,Fixed Deposit,477870.1,Kolkata,603,Rejected,57036.36,89,11-09-2024
+9f7200ce-3049-48b5-9a28-539240904011,Maria Martin,Male,43,Current,431201.68,Mumbai,880,Pending,21880,15,20-05-2025
+afd81e0b-d3d6-45e1-ab2d-6684b9a2db6c,Casey Weber,Male,40,Savings,404948.52,Bangalore,551,Approved,97198.7,5,15-11-2024
+b0e172fb-a101-41f0-b184-8e25eca10ae5,Sherry Brown,Female,26,Fixed Deposit,327965.75,Mumbai,890,Rejected,149219.36,56,29-09-2024
+47c03d79-e3bd-4016-b21a-78243fe65543,Alvin Patel,Male,29,Recurring,275877.83,Delhi,701,Pending,125279.03,46,25-10-2024
+5b38a5c9-816e-40ec-b7d9-37efb36ce5a1,Sean Morrison,Male,18,Savings,44406.39,Mumbai,681,Rejected,137845.62,47,28-07-2024
+ad590a81-2048-4554-857c-ec64e1e21e3c,Joseph Garrison,Other,18,Fixed Deposit,204818.15,Bangalore,400,Approved,25418.34,41,12-12-2024
+64e279ba-7a17-42ec-a9de-6f5c1a559eb3,Nichole Richardson,Female,64,Recurring,186971.57,Chennai,829,Rejected,190783.23,75,24-02-2025
+047984a1-1fb8-4f73-a8cb-eabe52987f6d,Sarah Booker,Female,51,Fixed Deposit,130617.14,Mumbai,556,Pending,169313.45,59,28-10-2024
+78fe1761-c7f5-47c3-beea-eed59d613910,Joseph Hopkins,Other,49,Savings,361986.64,Hyderabad,397,Not Applied,162967.16,76,06-08-2024
+eafa8020-26e6-4aa7-b94b-988b367aee7e,Kimberly Smith,Other,65,Current,248441.99,Bangalore,308,Approved,166366.92,3,19-10-2024
+4027fa65-40d8-498d-83ff-861d59e192fa,Jessica Jimenez,Male,42,Recurring,41442.06,Chennai,636,Pending,187215,1,06-02-2025
+ab119436-5173-49c0-957e-9a8bdf0e32d5,Thomas Berger,Female,57,Savings,110871.42,Bangalore,616,Pending,113408.25,89,28-09-2024
+1d65f956-cc86-4a23-b130-933064f13364,Angela Hall,Male,62,Savings,341946.12,Bangalore,732,Rejected,48053.58,58,17-10-2024
+58779a44-2e09-45e3-a468-08ef508a7fc5,John Lawson,Other,18,,38989.3,Hyderabad,834,Approved,127188.89,26,05-09-2024
+469c934d-021e-454b-aa99-36eec3db1d55,Christopher Whitehead,Male,33,Fixed Deposit,425752.25,Chennai,348,Not Applied,151147.48,26,30-01-2025
+9a048652-05c3-4df6-9d8f-db8fc490b1bd,Lindsey Harris,Female,56,Current,248078.12,Mumbai,739,Not Applied,150204.3,78,22-11-2024
+4b42f480-59c8-49a7-9b28-24a9d6b7f151,Michael Griffin,Male,22,Current,240812.7,Chennai,412,Rejected,109075.31,71,28-08-2024
+6442fad5-e640-4d30-9b32-03d43c7ba122,Leon Berg,Female,39,Fixed Deposit,296611.48,Mumbai,815,Approved,23007.16,6,16-09-2024
+7133a41e-c3c9-49c3-8d0e-4cc33b1fc51a,Katie West,Male,46,Fixed Deposit,412515.8,Hyderabad,791,Not Applied,80511.46,62,16-06-2025
+6e7039ec-ac14-40eb-8dbd-98488792ff1c,Richard Gibbs,Male,20,Fixed Deposit,174556.79,Bangalore,624,Approved,184945.66,45,20-03-2025
+51a5cf21-da1b-44e6-8bd7-b6891a61748b,Jasmine Johnson,Female,29,Savings,339330.06,Mumbai,726,Rejected,121045.29,62,02-05-2025
+a8420311-6dbf-418e-93e7-f3f5892681a5,Claudia Brown,Female,43,Savings,283300.25,Kolkata,489,Approved,112283.07,11,02-11-2024
+ca7f4f95-7543-407c-a761-4d4afbcb4b6e,Jeanne Moore,Female,33,Recurring,134247.11,Chennai,583,Approved,61082.17,12,20-04-2025
+6bf9ba18-684b-4816-bbb4-0327bf8b2f9d,Diana Larsen,Male,68,Recurring,439436.36,Chennai,793,Approved,80005.29,42,07-05-2025
+595661c2-8e82-4bca-ac0b-474a238032be,Samantha Rhodes,Male,54,Current,398915.58,Delhi,576,Rejected,180115.76,16,26-03-2025
+c39b18e8-20c8-4a78-abc1-bbf6e0a87127,Nicholas Cooper,Male,39,Current,329567.47,Bangalore,515,Rejected,136627.98,62,24-12-2024
+73cf254a-8b8e-4d90-b85e-2168215f5a5f,Donald Schultz,Other,46,Recurring,425440.28,Bangalore,597,Rejected,159603.54,80,20-03-2025
+1f5fe389-a1c9-4a21-b0fe-07fa907e10d0,Kevin Vaughn,Male,31,Current,433779.81,Hyderabad,797,Not Applied,96325.63,35,30-03-2025
+b166ac2d-fee8-4227-87e3-43dc30197256,Debra Parker,Female,45,Fixed Deposit,354473.13,Mumbai,501,Pending,129746.97,84,08-03-2025
+0307a557-f978-4a2c-818e-f50f3c56570e,Kristen Lara,Female,22,Savings,418669.65,Hyderabad,404,Approved,57192.89,7,25-02-2025
+20ef3bb3-ad91-4e16-805c-3ee0fbdfe606,Michael Chandler,Female,64,Recurring,349038.26,Hyderabad,727,Pending,144037.56,68,22-05-2025
+13e4597e-2b73-4f40-909b-48f6cb3b7b9c,Lauren Fernandez,Male,66,Savings,340390.25,Kolkata,796,Approved,91244.25,89,30-09-2024
+b56d2dab-d675-436c-bbf9-bde570a8cd98,Cheryl King,Female,47,Recurring,309687.08,Bangalore,360,Approved,94083.65,79,26-01-2025
+ab6371f2-9569-460c-8420-efbeabea79b8,Mr. Marcus White,Female,63,Savings,376605.6,Kolkata,444,Approved,133371.24,35,18-03-2025
+384feda5-eac4-4f68-b77f-8745328a61e4,Isaiah Hampton Jr.,Other,69,Recurring,80143.95,Delhi,385,Rejected,187893.32,27,14-05-2025
+facfd9df-9a2e-4840-a340-95bf0cceac45,Carla Hayes,Other,22,Savings,440554.51,Chennai,509,Not Applied,22161.21,92,19-07-2024
+01146659-f540-44b5-88b6-6f9ff883f90d,Donald Nunez,Female,29,,436049.92,Hyderabad,570,Rejected,166701.22,46,13-05-2025
+2dd3adc3-d0df-4da4-82e0-78fa82d4807f,Jody Lyons,Other,33,Recurring,15594.39,Hyderabad,749,Approved,65552.79,75,03-01-2025
+97aae55d-b0c2-467e-a34c-a35579a69376,Cynthia Peck,Other,43,Recurring,413082.56,Kolkata,691,Pending,94344.7,29,04-03-2025
+543422d3-a346-4e17-a430-c89c10e9ef4e,Alyssa Reid,Female,43,Recurring,65306.06,Bangalore,673,Approved,14163.53,22,01-02-2025
+f4aeb00a-380a-4da9-93b6-16653c73f868,Jennifer Ingram,Male,65,Fixed Deposit,168224.31,Chennai,511,Approved,67198.75,15,31-05-2025
+11c37500-8a8e-4558-80d6-075f778a257e,Mike Brown,Male,38,Savings,372010.62,Hyderabad,805,Not Applied,105499.94,13,29-06-2025
+34afce80-981a-4022-b18d-389bc8c0af3e,Joanna Riley,Female,56,Recurring,81219.19,Kolkata,583,Approved,20673.45,73,05-07-2025
+454a8605-eaba-43cc-b236-c376b4577180,Cynthia Faulkner,Male,53,Savings,409165.55,Kolkata,887,Rejected,103308.19,70,11-07-2024
+5b714293-e5c7-4051-9e3e-dd25e388bcd3,David Williams,Other,50,Fixed Deposit,416234.95,Mumbai,680,Not Applied,186151.02,51,26-08-2024
+d92769b4-52a3-45cf-9755-5e94e915e9e1,Michael Saunders,Female,47,Current,254226.4,Chennai,376,Not Applied,30024.71,36,25-02-2025
+27515ef1-e178-48e3-947a-ac495b19ea79,Eric Long,Male,54,Recurring,4186.55,Kolkata,706,Not Applied,155243.74,28,12-09-2024
+bd80b851-5eb3-4d7f-a939-45dd10874488,Rodney Stevenson,Male,40,Fixed Deposit,144232.03,Mumbai,495,Approved,87837.5,66,19-02-2025
+4fed85a5-01ad-4c66-a82d-65373a97778d,Kimberly Thornton,Other,27,Savings,308846.53,Bangalore,712,Not Applied,134483.01,14,24-05-2025
+9bf64d88-e5ef-4f2c-9b5a-57ee14eb5437,Keith Hernandez,Female,22,Recurring,490611.9,Kolkata,342,Not Applied,59444.95,99,15-06-2025
+4a252d67-b4c8-4e7e-8f0e-d05a40fe11e2,Marcus Phillips,Female,53,Savings,316274.95,Mumbai,405,Rejected,40303.53,46,17-09-2024
+05dbbfa6-f4b3-449d-a9ad-9d4aa3fb5f5b,Wendy Taylor,Other,51,Current,130641.99,Mumbai,813,Pending,40487.9,45,11-01-2025
+277a9776-b302-43e6-b8e4-81111ce704dc,Rebecca Brown,Female,69,Recurring,317368.85,Chennai,436,Rejected,23393.47,51,17-12-2024
+e9bf7c86-a579-4f31-b9e3-5da915b1f7df,Elizabeth Rogers,Female,48,Recurring,270452.7,Hyderabad,802,Rejected,45272.87,18,23-11-2024
+3ef56436-efce-401a-8e2c-911c028fc548,Michelle Meyer,Other,27,Savings,390142.85,Mumbai,468,Pending,136201.68,76,23-12-2024
+88cea2fd-3f44-405d-86b4-19ba5360d24a,Crystal Collins,Other,36,Recurring,54383.34,Kolkata,686,Pending,177521.22,20,06-06-2025
+31e1450f-b7df-4453-b623-bdc081860c6a,Diana Gates,Male,49,Fixed Deposit,380752.92,Delhi,716,Not Applied,164683.88,63,17-12-2024
+498c8cba-955a-4065-850d-b7c6d4a9d2ad,Scott Flores,Female,18,Fixed Deposit,271092.02,Bangalore,608,Rejected,140175.52,36,26-06-2025
+5cbdbb8b-4383-40df-a6a0-1bf38a3cbf2d,Benjamin Estes,Other,22,Current,481533.01,Kolkata,483,Approved,30982.05,26,12-07-2024
+38a9533c-eb93-445f-ab63-17c6115647d5,Eric Burns MD,Male,62,Fixed Deposit,171594.21,Kolkata,428,Rejected,64945.61,54,04-10-2024
+c5716219-f823-445b-9f90-77c8e03bd501,Cynthia Cox,Female,21,Current,316678.32,Bangalore,320,Pending,68863.31,28,20-01-2025
+3f55f961-1c37-436c-9f8f-ce7e19b5b436,Theresa Davis,Male,33,Savings,466082.02,Bangalore,482,Not Applied,57491.82,19,07-12-2024
+62d978db-cb1b-4dea-9793-fe0885e39c2d,Mackenzie Gibbs,Other,41,Savings,52152.35,Mumbai,692,Not Applied,107851.08,24,18-03-2025
+9525e5e0-4fdc-4326-bb96-fb8641219bbc,Denise Jordan,Female,33,Current,468677.02,Kolkata,863,Not Applied,111755.22,69,20-08-2024
+ed48c418-2a5c-4bb6-93d7-ad7ee91abdf8,Joanne Mason MD,Male,19,Fixed Deposit,344254.98,Mumbai,823,Approved,77808.34,62,29-06-2025
+9cff6000-762d-48c4-b9ab-923a9f1ff434,Sean Dawson,Other,66,Fixed Deposit,34850.69,Chennai,760,Approved,77219.94,35,22-03-2025
+601fa9d3-55a4-4865-88a7-644249d625dc,Stanley Romero,Other,45,Current,151180.82,Mumbai,773,Pending,167425.56,1,16-09-2024
+faa679fc-5375-4952-8178-0793804b3f6d,Jason Harris,Other,49,Current,354377.87,Chennai,699,Not Applied,159965.64,21,12-01-2025
+06f35420-c3aa-4f08-9baf-0ad6ca279191,Timothy Barnes,Other,44,Savings,34607.95,Hyderabad,456,Rejected,68481.21,95,04-05-2025
+c31d04f5-13ba-4a24-b91d-bf0adb919cfc,Peggy Horn,Other,37,Current,291503.06,Delhi,844,Not Applied,183619.8,15,17-03-2025
+9090e3a9-a948-4f5e-9a5a-753d2cbc9067,Elizabeth Todd DDS,Other,41,Fixed Deposit,173595.65,Kolkata,702,Rejected,191034.85,17,03-05-2025
+5a2d2e2a-1f6a-4bd0-80de-c17f12902175,Kim Harrison,Other,29,Current,310836.84,Chennai,636,Rejected,72081.08,68,25-06-2025
+48c53e83-de9c-4695-8ec6-5949ba54e917,Sean Mcdaniel,Male,67,Current,23825.27,Delhi,367,Approved,77340.74,53,20-12-2024
+12fd130e-1aa1-44b4-bf18-f44fcd9449bb,Betty Becker,Female,52,Current,435896.87,Bangalore,568,Not Applied,106070.49,99,15-01-2025
+268c626a-5b5a-4826-842c-e6eab12041a9,Antonio Morgan,Female,50,Savings,486771,Hyderabad,576,Pending,188812.95,29,28-06-2025
+389c9415-3436-4720-9c2a-152947b34b89,Lynn Cox,Male,50,Current,484470.05,Mumbai,819,Not Applied,176500.69,44,11-02-2025
+94d139ed-c2cd-4bfe-aed7-4b30275c16fa,Brooke Ramos,Other,68,Recurring,375076.26,Delhi,628,Not Applied,29487.91,18,28-10-2024
+e307139f-dd3b-4bac-b210-624b7ae1331c,Sharon Phelps,Female,60,Recurring,65913.03,Chennai,528,Pending,84618.84,86,24-05-2025
+9594ed54-98b3-402c-a56a-1eb2a18ea21d,Dylan Ramos,Other,54,Recurring,379373.33,Kolkata,886,Pending,115140.53,33,27-02-2025
+4c449f15-4d42-4cce-99f5-bae6477abc0f,Brittany Roach,Female,29,Fixed Deposit,13268.87,Hyderabad,366,Not Applied,105595.17,12,13-02-2025
+e8fa4af9-b918-4893-9e9c-fc4680531265,James Martin,Other,20,Fixed Deposit,12039.65,Bangalore,554,Pending,46833.98,42,18-07-2024
+62294524-3c0f-416a-8592-0f313a8bcb64,Douglas Murphy,Male,18,Current,162481.5,Bangalore,325,Rejected,173175.19,61,09-09-2024
+a45078bc-83c7-466e-b65c-9d94bccd0f4c,Anna Ross,Other,50,Recurring,244832.95,Delhi,744,Approved,138618.75,92,26-09-2024
+6f028648-933e-47d7-86af-68c208d9521e,Matthew Beck,Female,57,Savings,385433.3,Delhi,851,Pending,169202.59,99,19-09-2024
+96fd28cd-b6cd-48f2-b836-53f8affbf0f2,Jessica Brown,Other,27,Recurring,341964.39,Mumbai,468,Rejected,173165.21,21,06-07-2024
+5afe102d-78c3-4f4e-b6a9-851ea1711228,Rachel Ray,Female,60,Recurring,223505.45,Bangalore,815,Approved,152187.61,51,22-07-2024
+823014b3-c37e-4228-9a6d-385ba4b5279d,Richard Moore,Other,61,Fixed Deposit,137539.71,Hyderabad,475,Pending,93450.01,51,10-12-2024
+b140379d-1bac-480d-bda0-379a79510cf3,Terry Reyes,Female,46,Fixed Deposit,498565.13,Hyderabad,846,Approved,126003.88,35,25-08-2024
+c4542ddd-819f-43cf-ba29-1dbdc515aab1,Lori Gonzales,Female,30,Savings,213664.47,Bangalore,752,Not Applied,40469.43,72,07-02-2025
+ffb1cbf2-eecd-48f5-ae6e-d10828a2c625,Devin Woodward,Female,29,Fixed Deposit,226242.13,Mumbai,783,Pending,137992.63,18,02-09-2024
+132d1d0a-47f1-4d4d-9126-840a1a711d94,Alec Davis,Other,48,Savings,82648.29,Kolkata,311,Rejected,44058.12,37,27-03-2025
+8910a494-c6be-4521-99cc-4e9a2a3baedc,Suzanne Gonzalez,Female,63,Fixed Deposit,397609.96,Mumbai,878,Rejected,141850.42,69,10-12-2024
+48af3d0c-0df4-426d-a358-2cb92dd2befb,Robert Patel,Other,19,Recurring,347147.43,Chennai,736,Approved,53623.65,78,15-11-2024
+f98fe9ff-ad04-4b0f-b0d6-76593aab31b7,Samantha Austin,Male,68,Recurring,111164.04,Chennai,483,Rejected,32334.75,56,28-03-2025
+0ea482bb-397a-490d-ac5f-457b6212a93d,Scott Duke,Male,67,Savings,42108.14,Delhi,798,Rejected,41404.05,19,01-10-2024
+de7d9081-1583-4fcd-9742-3e0783f12cca,Joseph West,Female,52,Savings,340569.15,Mumbai,469,Pending,10378.51,8,25-01-2025
+74f09e81-b78f-4cb7-b2e6-1a50b9bce40e,Sheri Dixon,Other,40,Fixed Deposit,327601.1,Mumbai,824,Approved,146560.53,31,26-02-2025
+a7dc920d-1494-4e63-9535-adbcc5defbc9,Jessica Brooks,Female,34,Fixed Deposit,137356.5,Hyderabad,368,Rejected,149156.2,3,28-11-2024
+b3fb3b5c-2ce4-40a1-9c0e-73109037609b,Allison Gibson,Other,43,Savings,475480.92,Delhi,722,Not Applied,107837.34,49,20-10-2024
+3c21fbb1-5d20-4ed9-a9cd-76257b8e4d7a,Raven Landry,Other,25,Savings,76377.89,Hyderabad,624,Pending,40658.93,81,12-05-2025
+78ff4ec8-63c1-461d-b43e-a263d28cc134,William Richardson,Male,46,Recurring,216735.07,Kolkata,358,Rejected,25875.32,4,11-08-2024
+d3b2fc91-1ebe-4b3a-bae1-b2c1e36747d1,Jason Page,Other,43,Recurring,471864.34,Mumbai,445,Rejected,13634.5,19,09-11-2024
+96caee82-b08e-465e-816b-06fbab99ca5a,Billy Jones,Other,27,Savings,210443.93,Hyderabad,307,Rejected,41492.15,86,21-11-2024
+aba9ad8e-5489-45b5-a033-be357f8acccf,Anna Wiggins,Female,43,Recurring,319624.45,Bangalore,581,Pending,179262.55,74,19-01-2025
+82e4b858-5fe0-403d-9856-911b9a0a7cc5,Jesse Anderson,Female,51,Current,199399.6,Hyderabad,481,Pending,55892,36,17-03-2025
+26c650b9-5b69-4c56-b6ef-ccf58ef6eb96,Samantha Austin,Other,68,Fixed Deposit,137833.39,Mumbai,659,Approved,77311.55,21,21-04-2025
+90b8a9da-fa1c-494c-9af4-7a61dff1b51b,Justin Miller,Male,58,Recurring,492004.85,Kolkata,478,Pending,30015.64,57,07-09-2024
+9eb9ec67-38ea-4b59-90f3-573007e2feb7,Sherry Golden,Female,24,Current,205257.67,Mumbai,480,Rejected,52248.65,67,17-02-2025
+fb95eabd-166b-423c-8d27-08be6bc43a6d,Laura Brooks,Female,21,Savings,447155.5,Bangalore,746,Rejected,108652.67,92,07-12-2024
+0e49ae4f-a4af-4c2c-bdea-f51aaed9ceea,Lindsey Baker,Male,67,Recurring,115747.35,Chennai,329,Not Applied,125473.01,43,30-09-2024
+4a7cc3e3-2e7e-4b15-8e38-5de6262f73d7,Jeremiah Berry,Female,62,Savings,107339.25,Chennai,842,Pending,56616.94,33,03-03-2025
+9c999362-5a6f-4d30-97ca-3a98ebf6688e,Tanya Murray,Other,28,Fixed Deposit,16535.91,Kolkata,811,Rejected,20969.11,76,26-02-2025
+7935c328-1bdd-428b-ba57-f77dd201953a,Bryan Adams,Other,46,Savings,326181.75,Kolkata,701,Not Applied,84296.25,41,17-02-2025
+3132b4e1-4816-4ed4-9684-a2270ef25c3f,Angela Larsen,Other,53,Current,184894.65,Bangalore,656,Approved,54498.64,8,08-01-2025
+73a8219d-ed45-4ee0-8583-29f2a7edf86a,Victoria Ford,Female,42,Savings,432314.77,Hyderabad,835,Approved,51715.25,94,20-04-2025
+739a676c-7ab4-4356-88ab-f3612326bf29,Beth Francis,Female,38,Current,237131.74,Chennai,411,Approved,192373.93,6,19-05-2025
+3a2a47cb-db4f-47fa-805a-0155c148c3f9,Lisa Ryan,Female,53,Recurring,484128.52,Chennai,347,Rejected,127097.09,67,28-02-2025
+6bc60ea1-6378-4363-9a53-9a0187f224b3,Scott Murray,Female,27,Recurring,93577.23,Chennai,444,Rejected,115806.9,18,18-11-2024
+6f117431-d4eb-463c-b133-c909a76ee9e9,Meagan Baldwin,Other,54,Current,434442.96,Chennai,777,Approved,88997.27,93,30-01-2025
+697963a9-c25b-4c61-a501-35561906f281,Travis Lee,Male,26,Fixed Deposit,388521.83,Bangalore,321,Not Applied,91499.42,30,06-09-2024
+24b7b56e-96b7-42f9-9c01-95c5eda59b6a,Krista Keller,Other,41,Fixed Deposit,385690,Kolkata,650,Approved,112771.95,34,05-11-2024
+eaa4bac2-3b84-45fd-b5e0-97ad13dffa1e,Megan Garcia,Female,52,Fixed Deposit,422546.83,Kolkata,897,Pending,142321.66,56,07-11-2024
+f5a76435-249d-4e03-909c-c7fc9bce0f21,Shirley Hoffman,Other,66,Recurring,380750.97,Delhi,813,Rejected,143407.76,84,26-09-2024
+05e57cab-c5dd-4305-b661-13fa69e9b7bf,Diane Smith,Male,52,Recurring,313483.94,Hyderabad,613,Rejected,42621.84,60,17-01-2025
+c3fcf282-c76d-44cc-bc55-6449cc7cb6db,Gregory Savage,Other,65,Fixed Deposit,66491.19,Kolkata,338,Pending,105021.42,30,24-04-2025
+43c1c73a-623e-4c7b-9f2d-b0645cc060cf,Michele White,Male,53,Savings,17230.56,Chennai,799,Rejected,88272.04,82,12-10-2024
+47693590-6229-422c-8bdb-6bdad09308b4,Kenneth Horton,Female,35,Fixed Deposit,460503.08,Mumbai,659,Pending,175400.12,94,15-07-2024
+12ab0c10-800f-48c4-966c-637b5618da17,Robert Moore,Other,66,Savings,308708.51,Chennai,369,Approved,129969.6,52,20-05-2025
+a898bda6-bdbb-4d7f-834e-f9c6cd4f447e,Justin Montgomery,Other,56,Fixed Deposit,398472.11,Chennai,356,Approved,111175.77,31,20-11-2024
+e7cbd0a2-91cf-4512-8e38-cd6af1afb1c7,Karen Pratt,Other,49,Savings,241279.65,Kolkata,846,Rejected,31924.98,65,01-03-2025
+42b46980-a058-4a57-a68d-b47f4161a04f,Morgan Mora,Other,41,Recurring,59536.79,Delhi,702,Rejected,125071.2,58,25-10-2024
+744ed3d2-8bc5-4e65-93b5-b214793727d8,Megan Stevens,Female,40,Fixed Deposit,63467.71,Bangalore,798,Approved,32268.74,9,07-04-2025
+2fe4b884-b4b6-4d2e-a23f-37a0a3f873d6,Jason Gardner,Male,49,Fixed Deposit,343097.08,Mumbai,827,Pending,74069.25,1,24-04-2025
+73476ec6-ba2f-4460-9af0-a153fafddc2f,Amanda Maddox,Male,54,Current,215722.64,Hyderabad,643,Approved,37139.97,65,08-07-2024
+481b2d52-0830-4301-aed4-26d645afd641,Mason Le,Other,29,Fixed Deposit,101061.84,Mumbai,610,Pending,141493.99,59,10-08-2024
+f85ddbc9-7c1f-4dfc-b593-98f43feb4fcd,Timothy Schroeder,Female,66,Savings,246305.68,Delhi,558,Not Applied,49187.9,87,13-03-2025
+acdcb415-c404-4a5a-83d0-033cde633533,Dan Snyder,Male,30,Current,33040.26,Chennai,490,Approved,84453.28,16,26-03-2025
+bf6dd411-3bf8-428f-bddd-ffde897439f3,Timothy Francis,Male,40,Fixed Deposit,291403.73,Bangalore,561,Pending,180178.21,95,25-09-2024
+f205d416-f009-44a0-b958-8506bc83d14d,Bradley Watson,Male,42,Fixed Deposit,135227.71,Bangalore,764,Pending,48820.11,15,29-12-2024
+17b46be3-fd89-40bc-8838-15a34e77220e,David Martinez,Male,52,Recurring,398981.99,Bangalore,661,Pending,106482.96,15,12-07-2024
+3b3112b4-11ab-423a-8269-a94838633265,Monica Combs,Male,58,Current,155870.62,Hyderabad,836,Rejected,89661.62,45,05-01-2025
+36170719-170a-40e6-bbde-089b1c1a7517,Brandon Valdez,Male,47,Savings,228154.85,Kolkata,566,Rejected,13443.57,38,16-02-2025
+450058a1-565c-4bc7-be56-6479fca10e68,Ryan Hill,Female,34,Fixed Deposit,6798.65,Chennai,664,Not Applied,160624.04,30,13-06-2025
+071f9df0-350a-4ac7-a747-8e5942fc3114,Tiffany Hamilton,Other,66,Recurring,37151,Mumbai,679,Not Applied,23118.72,87,24-12-2024
+a9de05a5-207b-48cd-86c8-4e7a8bc7d08f,Alicia Myers,Male,37,Fixed Deposit,196854.28,Mumbai,655,Pending,100108.45,0,14-05-2025
+f2b5d26c-aa28-413d-852f-dc79e8eee49b,Krista Peck,Female,65,Current,240489.48,Chennai,722,Rejected,116528.88,10,09-01-2025
+01205bf3-891e-417b-91ce-85a6b83a216f,John Walker,Female,42,Savings,300410.25,Mumbai,442,Pending,129401.03,84,14-02-2025
+4d0dd9d7-843b-4f08-8c8b-e8d06e233410,Julie Hancock,Other,39,Recurring,146539.63,Kolkata,607,Rejected,140840.01,3,06-02-2025
+72f23427-fa9e-4d0e-8e06-a2f6830d2365,Robert Johnson,Other,30,Fixed Deposit,347795.96,Bangalore,363,Rejected,58121.75,70,12-11-2024
+30b04cab-fd04-45a9-aa83-09c0c2f087c3,Fred Velazquez,Male,36,Savings,430201.08,Mumbai,531,Not Applied,11895.97,25,27-05-2025
+b84ef14d-b6e6-4889-acb1-49885f33ea54,Taylor Freeman,Other,66,Fixed Deposit,390145.64,Kolkata,593,Pending,147454.3,49,19-08-2024
+c728df5e-8cc5-49ba-a024-8caff1ac616d,Margaret Hunter,Other,53,Fixed Deposit,20769.79,Bangalore,691,Pending,111774.75,11,16-09-2024
+da090bd3-39c0-4961-a50e-3d5d682b878e,Shannon Parker,Female,29,Current,240772.97,Hyderabad,870,Rejected,168862.36,94,22-01-2025
+25c1b48a-f55e-4685-9e77-616e9453be7e,Destiny Haley,Female,58,Current,53360.16,Hyderabad,660,Rejected,166063.79,80,03-03-2025
+fad02a60-f7c2-4be7-9602-f7fd0ebf378b,Carrie Johnson,Female,36,Fixed Deposit,121780.46,Chennai,746,Approved,170231.97,96,21-01-2025
+375c8e5d-3348-4ce1-87ec-3b60518bfa3a,Sharon Gallagher,Male,29,Recurring,493344.63,Chennai,604,Not Applied,102167.99,74,04-07-2025
+74e4d32c-77c3-4b09-adc2-843b31c506ab,Leroy Miller,Male,26,Current,72105.28,Kolkata,680,Approved,73389.4,91,11-05-2025
+661eaf29-30a1-4e28-9d20-816658eb06b1,Paul Middleton,Other,24,Current,249945.19,Hyderabad,343,Rejected,160396.06,95,14-09-2024
+1d1b336e-50b0-43f0-bd00-730d8502c51b,April Zimmerman,Other,45,Current,309459.71,Hyderabad,453,Pending,95745.88,64,21-12-2024
+8d42c840-fd00-4274-ace1-ec302419d83f,Emily Parks,Male,31,Current,351530.02,Hyderabad,517,Rejected,44854.02,46,05-04-2025
+84e5ac15-54d3-4f5a-bb74-ce985b5edceb,Charles Stein,Male,48,Savings,280264.69,Kolkata,583,Approved,172445.06,91,13-01-2025
+d7bf3857-ceba-4b2d-ba87-5647c71149de,Rachel Jones,Female,69,Fixed Deposit,5875.65,Kolkata,327,Not Applied,177686.38,52,06-05-2025
+ea50081f-8857-4bdc-a7f0-e50460c88b29,Jeremy Thomas,Male,36,Savings,163904.19,Mumbai,384,Rejected,98598.85,70,09-03-2025
+d35054bf-0b56-4577-9f58-945a1518a8dc,Dustin Long,Male,64,Savings,259338.11,Hyderabad,466,Pending,24382.95,1,28-11-2024
+44713870-df09-4d24-a9da-24c3046f6360,Heather Barnes DVM,Other,33,Fixed Deposit,44845.38,Chennai,883,Approved,83686.96,23,14-10-2024
+42791703-fea8-4674-9d52-71b486912836,Matthew Olson,Other,22,Current,175962.84,Mumbai,499,Rejected,162672.16,3,28-06-2025
+286d374c-8776-457f-b0b5-793771c53de0,Austin Rocha,Female,52,Recurring,17568.35,Mumbai,589,Pending,181337.07,18,06-12-2024
+8b80f1bf-08aa-40af-84f7-3f30fe87b66a,Michael James,Male,29,Current,40210.67,Hyderabad,418,Pending,48659.82,25,14-03-2025
+25201188-27d7-463f-b249-167197eadd67,Emily Stephens,Other,42,Current,199064.71,Bangalore,666,Rejected,22724.99,74,19-01-2025
+c2f5b12f-f02f-464b-9bd3-75f896d16caf,Derek Berger,Male,69,Current,67225.16,Kolkata,468,Approved,176696.59,39,04-11-2024
+d6a1a035-74b3-493d-9527-cf37175dc13c,Tracy Smith,Male,38,Current,284202.88,Mumbai,424,Pending,83986.94,49,07-01-2025
+fe67824e-e9ee-43a5-84f8-e6058ccfccd7,Steven Bradley,Female,53,Recurring,345043.02,Bangalore,610,Not Applied,112934.58,42,21-08-2024
+45d238c1-6a10-436f-b55f-5a0691f0018f,William Perez,Male,40,Savings,400492.76,Hyderabad,303,Approved,193932.5,74,01-09-2024
+cd7d53f7-8605-4d2b-b04f-9f6a2e476c5e,Mrs. Lauren Lucero,Female,33,Recurring,100874.97,Delhi,305,Pending,22647.3,66,16-08-2024
+6e2988c4-2c26-42b9-9d05-896d7276d7c8,Hannah Norman,Other,56,Fixed Deposit,84573.81,Bangalore,431,Rejected,133180.42,11,23-03-2025
+98724f15-72b2-4b28-a58a-26131d9e4671,Michael Anderson,Other,62,Current,53179.35,Delhi,322,Rejected,24080.03,66,07-03-2025
+613845f2-c006-411b-a5fe-54b884d01f55,Cynthia Johnson,Other,59,Recurring,318578.69,Delhi,365,Approved,81339.1,26,27-03-2025
+519f3540-779b-402c-825d-1fba6fdcdefd,Christine Tucker,Other,56,Fixed Deposit,353531.39,Hyderabad,503,Pending,162724.76,53,21-04-2025
+f5497c36-2249-46fc-b18e-30e9de3c0393,Lisa White,Female,31,Recurring,16761.49,Delhi,782,Pending,92359.72,65,22-01-2025
+c6f1419f-800a-40ad-b2ae-26c4d634a833,Heather Davis,Female,48,Current,468169.91,Delhi,643,Approved,199464.65,48,11-02-2025
+4e2bd388-6e24-4d19-bec9-f43c8c695e15,Nathan Barker,Other,22,Current,26933.67,Kolkata,608,Approved,116221.26,15,25-05-2025
+3660062a-966d-4728-bede-8e4c07431ec6,Debbie Cannon,Other,52,Fixed Deposit,271106.87,Mumbai,476,Approved,71020.81,1,10-04-2025
+e6d2dbca-1380-43b6-953f-9ac20e421b09,Justin Meyer,Other,40,Recurring,354821.2,Hyderabad,859,Not Applied,51821.15,59,18-05-2025
+639da917-f6ac-4b07-ae91-b4eb790723cf,Deborah Lopez,Female,46,Current,435613.59,Mumbai,538,Not Applied,76598.9,53,03-12-2024
+a83d80a6-e92a-4a83-9f5c-bc9e0793025f,Angela Green,Other,60,Fixed Deposit,357329.38,Delhi,352,Not Applied,80781.32,29,25-07-2024
+90d659a1-2c51-4e96-adf4-829cd730e76f,Mr. Shawn Nelson,Female,28,Recurring,401062.31,Hyderabad,670,Rejected,23055.6,83,26-07-2024
+a7b5bc9a-5f04-4755-b17b-4b06e479dd41,Matthew Dixon,Male,35,Recurring,170385.65,Mumbai,368,Not Applied,80219.1,37,12-03-2025
+9bb0ce69-f935-4863-824c-a51c896625ed,William Alvarez,Other,64,Fixed Deposit,407597.73,Delhi,507,Not Applied,98205.32,27,01-07-2025
+2442fe50-61cc-4aca-934c-3236b13d37fb,Jessica Davis,Female,29,Recurring,40977.31,Mumbai,604,Not Applied,147320.17,24,20-08-2024
+6afc4a45-1e87-41c9-aee8-32db0f606e2c,Dustin Clarke,Female,26,Recurring,447513.51,Bangalore,825,Pending,134778.6,95,23-07-2024
+f12ff15a-54a5-4b65-9dd6-b67b7e0ebce8,Meredith Butler,Female,27,Current,274248.6,Kolkata,596,Not Applied,144665.47,9,08-07-2024
+4a9c0d0f-af52-4b7f-a052-dbf55798d2bb,Mary Lynch,Male,61,Current,408831.59,Chennai,721,Approved,11589.1,59,18-06-2025
+1f51659a-a2ca-4b62-a99c-852eff26d800,Ashley Farrell,Other,34,Current,226706.82,Delhi,896,Not Applied,51356.81,41,07-10-2024
+56502d75-c86f-46eb-929d-87f505f21e15,Edward Murray,Female,55,Fixed Deposit,322145.27,Bangalore,379,Rejected,135720.01,39,08-07-2024
+57c04327-326d-4aca-ab4a-a20474b72c8e,Norma Taylor,Other,24,Savings,263674.93,Hyderabad,465,Rejected,101957.98,96,02-04-2025
+48645079-52fd-470e-b263-6ed9dddb65a7,Lindsay Wells,Female,63,Recurring,366063.17,Hyderabad,537,Not Applied,11009.56,76,07-10-2024
+9d112277-0951-428a-9e64-d952e5ccc2d3,Linda Palmer,Other,30,Fixed Deposit,41733.36,Bangalore,553,Approved,162853.98,41,25-04-2025
+4e116e92-6bdb-477f-b818-4f6be85d15b9,Robert Gibson,Male,57,Savings,31115.69,Kolkata,547,Approved,156833.82,46,07-04-2025
+723586c7-cc98-40af-978e-8ad549b37735,Penny Hernandez,Female,59,Savings,124304.51,Hyderabad,845,Pending,114199.64,36,09-09-2024
+8b9bb85c-dd50-40de-a264-47b1740c989b,David Short,Female,26,Fixed Deposit,80612.8,Kolkata,728,Approved,22628.03,79,10-10-2024
+e4db9ed3-e5ee-4eab-ab53-99c12f9ac9bb,Karen Ramos,Male,67,Savings,436020,Delhi,665,Pending,155637.86,21,03-12-2024
+f3a2c49e-d065-4c3c-996c-6ab2d9f7511c,Nicole Nguyen,Other,44,Current,110387.78,Delhi,486,Pending,120905.58,56,10-10-2024
+76c9bac7-4114-4c56-a70e-ca236672088c,Jeanette Nichols,Female,19,Fixed Deposit,487956.76,Bangalore,794,Approved,158572.4,83,10-09-2024
+b46d235e-0743-48fa-9f26-6015f0bba3bb,Gloria Murphy,Male,22,Recurring,169111,Bangalore,873,Approved,152831.93,26,28-02-2025
+ecf1f15c-0a01-43f2-8dd6-c235ff1de3e2,Mrs. Jaime Durham MD,Female,46,Current,91876.84,Kolkata,793,Pending,162570.39,40,28-04-2025
+70b52bb5-2119-4d6e-9594-202772a0240a,Shelly Johnson,Female,54,Recurring,395059.56,Delhi,301,Rejected,108421.53,79,29-12-2024
+8ae8f8f9-a0d9-4ec6-a8fe-ed388b982c0a,Jodi Sparks,Female,55,Savings,329695.18,Delhi,682,Not Applied,36661.66,33,21-07-2024
+6ee94b47-43a2-4197-85ae-318a65c83d4f,Jessica Thomas,Other,36,Current,249599.66,Bangalore,331,Rejected,137519.92,31,18-12-2024
+6caf7336-ec90-47ad-8a18-1b57037cbbed,Nicholas May,Male,25,Recurring,278126.41,Hyderabad,455,Approved,127890.02,89,26-04-2025
+3dcc2e2c-e266-4efc-b225-e16fbbd4020a,Wanda Andersen,Male,65,Fixed Deposit,359881.69,Chennai,336,Approved,151028.11,88,14-11-2024
+354b7ebf-c3c1-480f-b903-702686243bf1,Jaime Potter,Male,62,Savings,114998.92,Bangalore,662,Pending,42277.39,65,22-10-2024
+1892deb9-b466-482a-affc-5e67f307df77,Chris Payne,Male,18,Recurring,498170.62,Chennai,712,Not Applied,47045.29,11,20-10-2024
+35c0b5a9-7c7c-40a7-a4bb-c986b95df4e8,Robert Chase,Female,39,Savings,487421.79,Delhi,369,Approved,179177.81,39,15-03-2025
+6faf2d31-71bb-4c1e-89ba-12ceba4d5bda,Andrea Howard,Other,69,Recurring,325512.52,Bangalore,530,Not Applied,152495.78,72,23-01-2025
+3801ab9b-145b-4cea-a00a-ea9417b37366,Scott Cox,Male,34,Fixed Deposit,100571.68,Hyderabad,574,Rejected,182563.41,75,30-11-2024
+eeef7dc5-c887-484b-9730-5cc4727ea3dd,Jennifer Mack,Other,24,Current,340433.89,Hyderabad,521,Not Applied,154155.91,89,20-03-2025
+a96fd8c3-41f3-438e-88e7-26e49c30d912,Keith Wright,Male,42,Recurring,37027.01,Kolkata,373,Rejected,123459.51,72,02-09-2024
+cec03509-4442-4a66-b7df-18a081bbbcec,Elizabeth Allen,Male,62,Savings,16295.6,Mumbai,551,Approved,134285.22,9,27-04-2025
+bd4f04b2-a3da-4c38-a113-eb18d9c5ea61,Maxwell Johnson,Female,21,Fixed Deposit,129583.76,Delhi,751,Approved,178934.31,95,21-06-2025
+28d75cb9-e6d2-432b-8012-98ac9f443411,Christine Jones,Female,53,Current,231848.86,Delhi,343,Pending,119973.28,97,14-10-2024
+2634decf-4186-4f2f-b370-a3ae51791bd7,William Morrison,Female,23,Savings,434267.98,Bangalore,348,Rejected,130154.35,47,10-04-2025
+3045835e-a8c3-4d03-aae1-fe70ae3e025b,Jaime Stone,Other,48,Fixed Deposit,363857.37,Mumbai,513,Rejected,39730.58,19,06-09-2024
+33a00a4f-fb74-41e3-81c6-b360bd5e070b,Hannah Lopez,Female,36,Savings,371610.55,Mumbai,865,Not Applied,100045.03,38,24-09-2024
+b1383009-9424-4bfd-939f-37420bbfc81a,Ellen Hensley,Female,61,Fixed Deposit,213321.17,Mumbai,701,Pending,146115.45,59,29-01-2025
+ca93ce7c-fd54-43c4-8cb5-1ed92cb7867e,Cheryl Brooks,Male,56,Current,173621.56,Bangalore,707,Pending,61479.11,65,30-04-2025
+173a8438-09e2-4c21-ace0-831716616bd4,Pamela Smith,Male,44,Current,186148.34,Bangalore,517,Pending,48428.29,64,06-03-2025
+6831984f-abac-49ff-a115-64cadf99e0b6,Lisa Gomez,Female,27,Savings,493837.13,Chennai,656,Rejected,69627.09,50,09-04-2025
+e4add58e-df02-4304-b9d4-0ce1c9672dca,Christopher Owens,Female,43,Fixed Deposit,21014.49,Chennai,306,Approved,55885.12,35,09-07-2024
+725d318b-a8ec-487c-a3e4-353e6eaa08a4,Drew Pearson MD,Other,36,Recurring,433648.72,Chennai,682,Approved,50833.4,23,16-12-2024
+6f7ac7e8-9317-4fa1-ba55-7b705e5ea00b,Alicia Davis,Other,56,Current,289759.03,Kolkata,848,Not Applied,90721.66,26,12-08-2024
+cc2c6c2c-c396-40a0-80b1-0ab753499c1b,Mark Sanders,Male,20,Recurring,219869.09,Delhi,668,Not Applied,182489.32,1,09-01-2025
+07b4f364-c896-45bb-bf8e-72054d5f71e3,Stephanie Duke,Other,62,Recurring,362903.57,Chennai,824,Rejected,106341.33,30,06-11-2024
+a80c3ef9-5a3c-45aa-9450-ab3f51c75f4b,Chelsey Thomas,Female,30,Savings,243847.8,Kolkata,734,Approved,45704.87,56,31-08-2024
+8a636a64-4de3-4ba2-a751-f63fac1aad2f,Kenneth Murphy,Female,67,Savings,436838.2,Kolkata,372,Pending,24624.62,77,04-03-2025
+5c0f21b7-4f73-4aa3-b16a-ca90f358600f,Julie Clark,Male,45,Savings,450450.23,Bangalore,841,Approved,142269.67,65,12-10-2024
+448929e4-c740-47b6-9080-cd48563adb89,Joshua Robles,Female,37,Fixed Deposit,211438.74,Mumbai,340,Not Applied,82731.77,28,21-08-2024
+457a2a7b-18ea-4af3-8aa3-8c2d8365c24f,Tony Lara,Female,45,Current,139137.07,Hyderabad,620,Approved,166147.88,14,03-11-2024
+cb708035-dd54-4000-ada1-528c9d9fe683,Lori Smith,Female,25,Current,296582.81,Mumbai,385,Pending,135307.05,11,17-05-2025
+f3a9512e-1560-4e3e-b3e4-ed8cf088d518,Jessica Tucker,Female,58,Recurring,456269.31,Chennai,307,Not Applied,161285.88,27,31-10-2024
+8e49b29a-63c1-444a-ac83-71fa89ea4903,Carrie Lee,Other,56,Savings,106120.43,Hyderabad,553,Rejected,61669.75,83,20-11-2024
+c42cb28a-16a5-4e60-92f2-90f00caa1296,Amanda Ashley,Other,18,Fixed Deposit,311860.33,Delhi,477,Approved,141548.2,23,13-05-2025
+15547cae-40be-4d4f-8e21-fb371b1744d6,Chad Maldonado,Other,20,Current,316148.55,Hyderabad,592,Approved,60171.78,20,03-08-2024
+e227890c-a40c-4601-aeac-5fdb7467d6d1,Michael Gilbert,Other,30,Fixed Deposit,366823.4,Hyderabad,646,Rejected,188423.01,9,27-07-2024
+51f3a332-513e-4d9e-9ab9-38c912dd7b16,Jerry Taylor,Other,45,Savings,66652.27,Delhi,326,Rejected,130911.11,77,07-08-2024
+71c74083-8c3f-40a7-bbf5-544e679aa57b,Stephen Nguyen,Male,66,Savings,358196.66,Delhi,374,Pending,71657.24,17,21-08-2024
+f05a9c66-c2e7-4876-9f7c-400c78ad4947,Susan Richard,Female,42,Current,454607.23,Kolkata,635,Approved,61207.25,87,26-05-2025
+abff4f3d-65df-4064-ac61-b768dd1c9b8e,Patricia Carter,Male,50,Recurring,90661.87,Kolkata,506,Not Applied,46276.05,13,25-11-2024
+542f1c18-d124-4b79-9fb4-7f2f660a9cb8,Gerald Harris,Female,55,Recurring,119534.12,Kolkata,738,Approved,141981.78,33,03-02-2025
+88ec3f3c-c618-407d-a013-896ee0afc03d,Paul Grant,Female,23,Savings,485726.15,Bangalore,691,Pending,51555.97,57,13-06-2025
+0f7f082a-7b8c-472a-bc09-dd759264a7e6,Robert Bradshaw,Female,61,Savings,91307.5,Kolkata,807,Not Applied,123107.62,75,16-10-2024
+a008923a-b66e-4173-b216-e71c8d291e2e,Tanya Alvarez,Male,62,Recurring,427338.16,Delhi,715,Not Applied,60280.66,21,15-05-2025
+d92f39ea-3a0c-4b12-9298-f3a8af04d33c,Jacob Zimmerman,Female,49,Savings,246646.65,Hyderabad,558,Not Applied,135774.1,69,16-08-2024
+2a7b6ca8-6d86-40d6-baa7-80b2b32fb0f7,Amy Johnson,Female,62,Current,124368.31,Delhi,704,Pending,164838.55,35,20-05-2025
+993c5b63-d13e-4548-87ff-b84bba6ffd21,Christy Anderson,Other,64,Current,435504.2,Hyderabad,465,Approved,157824.8,44,02-11-2024
+16c00d65-f11c-4200-bc18-860a1b4cac3e,Scott Jordan,Other,38,Fixed Deposit,223207.32,Mumbai,484,Not Applied,154561.75,35,20-12-2024
+b21f9614-e339-4498-af99-6daea3372450,Barbara Snow,Female,33,Recurring,257893.86,Delhi,773,Rejected,45667.26,21,29-03-2025
+b5b310b5-108e-4e6b-aa9b-f31aeb4f9e04,Alexis Fisher,Other,38,Savings,180257.45,Kolkata,568,Pending,26793.14,77,12-06-2025
+7da1701e-51a5-4af2-80a9-81b93c8a9302,Jeanette Owens,Male,28,Fixed Deposit,296882.47,Kolkata,779,Not Applied,142800.28,79,17-07-2024
+5489d1ad-db79-4730-8595-493ee3ee1a4b,Steven Frederick,Female,54,Current,82598.41,Hyderabad,793,Pending,79985.97,60,04-07-2025
+20758b6b-8b34-4f0a-af2d-b2536034c1f8,Michelle Barnes,Male,53,Recurring,196149.69,Chennai,815,Rejected,92145.78,99,09-10-2024
+451b54ff-791d-4432-ba0d-30427573bdce,John Ochoa,Other,52,Current,484736.75,Bangalore,850,Not Applied,15918.33,55,06-06-2025
+ad8e1e3b-d808-40e6-8501-b93da4cfa41d,Patrick Miller,Other,36,Savings,129808.58,Delhi,559,Approved,59319.53,88,08-06-2025
+5415c0c7-47fe-4d9d-a07f-f6127756f6b0,Scott Jackson,Male,37,Fixed Deposit,328711.6,Bangalore,491,Pending,16398.52,95,18-08-2024
+1e1f16f4-d131-4ee2-926c-c01a7181e6a8,Sarah Evans,Female,35,Savings,163269.84,Delhi,649,Not Applied,177045.3,32,18-05-2025
+4bbadb3b-0f1f-4d16-ba5e-7dbb45451cc2,Katherine Santiago,Other,64,Savings,386963.09,Mumbai,523,Not Applied,56245.37,44,13-02-2025
+85cb70ea-8b84-4952-a989-48e19f575b34,Allison Parker,Other,58,Recurring,66305.96,Mumbai,661,Pending,115894.06,35,28-10-2024
+f8133185-8a50-433c-bba9-884a9db428f6,James Kelly,Other,66,Recurring,484940.7,Hyderabad,723,Rejected,17406.07,19,12-05-2025
+9dc4add3-3b2e-4604-932c-c121222419da,Michele Hicks,Male,31,Savings,227440.98,Bangalore,713,Pending,136701,17,21-06-2025
+49dea7c9-182b-4965-8122-6f0c75ca3957,David James,Male,32,Recurring,118789.18,Kolkata,525,Approved,71375.2,37,27-12-2024
+e4383586-8f45-4b57-a65e-494e64372eaf,Thomas Velez,Other,48,Fixed Deposit,37674.88,Chennai,400,Rejected,180604.65,66,30-04-2025
+4927927a-b72c-486a-8e9a-300790858448,Natalie Odom,Female,18,Fixed Deposit,85709.19,Delhi,558,Approved,178742.46,22,01-03-2025
+d3156fdb-2d2e-4395-bce8-c1b24128b7f0,Kyle Obrien,Male,20,Savings,260367.2,Delhi,386,Approved,71805.22,95,08-05-2025
+e210b5fd-cc70-4182-9b98-9c58e1cd011a,Brandon Castillo,Female,33,Fixed Deposit,169164.59,Hyderabad,834,Pending,181182.57,15,12-10-2024
+6f673e8b-bf97-461c-9648-3efe4041ffc7,Shelley Chapman,Male,40,Savings,414612.8,Chennai,508,Not Applied,199269.96,58,18-11-2024
+2859492f-a6e8-40f0-ba79-50a2c3785b22,Monica Navarro,Male,28,Fixed Deposit,216012.87,Bangalore,393,Rejected,166828.98,68,05-08-2024
+5e7921d6-7884-44fb-8330-67b9c0438d8e,William Ward,Female,29,Current,125108.42,Bangalore,315,Approved,170525.56,67,04-06-2025
+8f0ccb7e-3c7e-4772-981c-12321813768e,Casey Hernandez,Female,27,Savings,308955.35,Hyderabad,687,Not Applied,57311.66,20,02-09-2024
+3db09398-2381-421e-87fc-b3760a8fcdfb,Alexis Rodriguez,Female,49,Fixed Deposit,353681.83,Delhi,682,Not Applied,119573.46,77,20-03-2025
+aaa18556-cd96-40cd-8994-37c486fbc05b,Dawn Christian,Male,33,Current,84353.91,Mumbai,504,Not Applied,22778.62,94,24-06-2025
+0690f8b3-3fab-466d-b241-335e21bc24cf,Cassandra Wang,Female,25,Savings,84641.99,Chennai,343,Rejected,28034.41,77,05-02-2025
+cb3d0cea-9ee3-4781-94d7-648aa6a2faa3,Richard Cuevas,Female,55,Fixed Deposit,19299.04,Delhi,546,Not Applied,199789.6,69,13-12-2024
+2796dde1-943b-42b3-b751-83765f6ab039,Nancy Martinez,Female,29,Fixed Deposit,368464.61,Mumbai,487,Pending,72061.46,11,02-01-2025
+2f1c2a56-dd59-414c-ab8d-3069419e55de,Amanda Brown,Female,41,Current,332238.46,Bangalore,706,Approved,152154.94,15,05-06-2025
+0149cd17-3792-477a-91ef-8f853f0b783d,Michael Love,Female,45,Recurring,237840.81,Mumbai,663,Not Applied,163266.36,80,20-08-2024
+a7e69521-fa6e-4cb7-b5d4-91b0a843d407,Angela Mitchell,Female,25,Recurring,422241.05,Hyderabad,519,Approved,173024.42,86,14-06-2025
+a29b62f1-2006-45b5-81ab-5addc3f34b49,Thomas Franklin,Female,45,Current,403029.41,Kolkata,431,Rejected,199549.38,13,17-12-2024
+ade2af72-7723-4428-8d33-1948b004ea0a,Crystal Davis,Male,53,Current,293091.83,Delhi,893,Approved,55884.33,60,12-11-2024
+feb9388e-ec99-4321-a6c4-bff7f96fdbfc,Karen Wu MD,Female,43,Savings,434267.37,Chennai,572,Not Applied,17666.66,70,06-12-2024
+f5b5a31f-2273-4eeb-b792-e7f205428ae1,Yvonne Martin,Male,25,Recurring,103714.76,Mumbai,713,Rejected,88126.39,45,19-05-2025
+be3502b1-5c6a-4f2b-b84e-a5caeafe63ea,Jeffrey Wallace,Other,67,Savings,56847.89,Bangalore,384,Rejected,34715.33,31,15-08-2024
+2a68db98-f77e-4ac0-9075-f0481af67a6e,Taylor Smith,Other,45,Fixed Deposit,135605.06,Mumbai,591,Rejected,14260.92,14,25-03-2025
+8474b3c6-506c-45c0-b1a8-a0a8ada88621,Jeremy Wright,Male,45,Current,29486.34,Bangalore,317,Rejected,78481.1,43,08-04-2025
+dc3b6486-e485-46f6-9004-6b0ad658851a,Jeffrey Walker,Female,54,Savings,266053.59,Kolkata,603,Rejected,158910.27,16,31-10-2024
+537d134d-1119-474f-a6b7-02555ac29568,Christopher Sutton,Male,58,Current,468366.24,Hyderabad,878,Approved,117574.33,40,23-02-2025
+04c0e14a-42b2-4687-b022-878c2e235bc4,Kristin Dunn,Other,53,Savings,20632.43,Bangalore,531,Not Applied,69427.82,53,11-09-2024
+fdd3223a-dfbf-49e5-95fb-e47700d9a3d5,Jessica Peters,Male,44,Fixed Deposit,61932.85,Chennai,323,Approved,134324.98,43,15-08-2024
+66bcc012-2340-4ead-a798-4274107e13e5,Hannah Conrad,Other,34,Fixed Deposit,226647.32,Kolkata,319,Not Applied,54083.45,97,06-10-2024
+474f9b60-4898-41e9-b781-75bb0f0b60f1,Dominique Taylor,Male,26,Recurring,467003.63,Hyderabad,533,Rejected,12732.47,4,06-09-2024
+43ee566f-a671-499e-b3b6-d2a55c3e760f,Holly Butler,Male,50,Recurring,158761.9,Mumbai,396,Rejected,155227.14,26,12-11-2024
+2f544582-a55f-4b09-8e28-d60add9fc0d3,Kaylee Villanueva,Male,37,Fixed Deposit,254110.17,Hyderabad,314,Pending,128511.19,86,25-04-2025
+bff00178-9b75-47b3-a560-b96915609992,Jared Parker,Male,30,Savings,21744.86,Hyderabad,754,Pending,154837.5,77,28-04-2025
+09222ad4-b610-431f-8ccb-bdc85d0302a3,Tina Russell,Male,45,Current,75023.26,Delhi,575,Approved,17398.22,78,20-09-2024
+14bb5a2b-6c23-4f2c-a6e5-75e82e89b492,Meredith Russell,Other,65,Fixed Deposit,493328.43,Bangalore,474,Approved,169052.73,42,08-11-2024
+e8628238-0976-47d5-9896-04fcafea16f3,Rhonda Myers,Male,46,Fixed Deposit,482594.23,Hyderabad,840,Not Applied,127709.98,96,18-09-2024
+36aad3c3-27b8-4070-88fb-649aa9d59285,Ronald Thomas,Male,30,Savings,3465.05,Chennai,370,Not Applied,117045.12,30,20-02-2025
+15731cef-50c5-48b5-b3b0-c06357d24d2e,Jessica Martinez,Male,63,Fixed Deposit,475954.08,Delhi,874,Pending,128676.67,98,16-06-2025
+7f3398e2-b8af-4ff1-bdf4-956530e79b55,Morgan Hardy,Female,52,Fixed Deposit,319920.85,Delhi,488,Pending,174242.32,16,21-09-2024
+6e8a4c9d-4e9b-4bd4-b746-ccbc47c264f3,Crystal Evans,Other,23,Savings,434091.23,Kolkata,833,Not Applied,121517.94,91,11-04-2025
+45e41870-9735-4084-84e8-736324d2c9b5,Nicholas Brown,Male,35,Fixed Deposit,227915.19,Mumbai,662,Approved,120380.57,82,16-03-2025
+f6b17d04-2052-4916-8940-2dc7d6ffe154,Bryan Ortiz,Other,68,Recurring,258282.42,Delhi,796,Not Applied,198229.04,53,02-02-2025
+9da0bbe0-6869-485c-b42a-bac64bc43272,Marvin Fitzgerald,Male,22,Recurring,244934.44,Chennai,890,Approved,153778.73,61,25-11-2024
+0a3c6ab6-eb36-435d-bccc-f5ad3880aea1,Barbara Carter,Female,64,Recurring,333765.26,Bangalore,473,Not Applied,94035.82,86,16-07-2024
+f84dc708-74dd-40a7-b1f3-225fd11db823,Edward Norton,Other,42,Recurring,70685.98,Bangalore,877,Rejected,144405.43,31,18-12-2024
+93702b58-62fa-42f9-9ce6-1c712762baf3,Monica Lozano,Female,19,Fixed Deposit,15956.82,Bangalore,534,Rejected,83953.79,39,23-08-2024
+3a517db1-38ac-4349-a647-4cad2a2a9c7f,Joseph Bryan,Female,27,Current,154657.04,Kolkata,531,Approved,53486.34,12,02-01-2025
+ca2c8360-bd9e-4a60-ac59-3c2b8c422d86,Tiffany Stewart,Male,47,Recurring,352635.7,Chennai,504,Approved,123401.86,83,30-07-2024
+3032c15a-512c-48ab-a38e-b993d5b6f597,Jessica Wallace,Other,67,Recurring,101724.87,Delhi,625,Approved,186354.6,34,21-07-2024
+a3d78896-9972-4939-b71d-f67ac9ad8159,Carlos Scott,Other,62,Fixed Deposit,337042.78,Hyderabad,392,Pending,186536.51,4,14-11-2024
+c18ce94b-a951-43c0-a199-5a2652601bd0,Steven Gordon,Other,22,Fixed Deposit,484986.11,Chennai,632,Pending,74962,72,23-04-2025
+b1725b69-befd-4288-b795-22d62cc2c5fb,Samantha Davis,Other,50,Savings,47856.46,Kolkata,625,Not Applied,110258.72,28,15-11-2024
+b57bc084-8e24-4f4c-a5ee-67262f26ed52,Lisa Baker,Male,18,Recurring,336628.46,Kolkata,757,Pending,50210.82,69,24-05-2025
+760660a1-713c-465d-962c-f235465779c9,Mia Stone,Male,35,Savings,222431.36,Mumbai,800,Not Applied,199169.91,24,03-09-2024
+21aa469d-593d-49f5-89e7-8b1b01879cef,Breanna White,Female,49,Recurring,434202.98,Chennai,564,Not Applied,196412.4,94,22-11-2024
+b34e448e-7e29-492d-92a4-fd03bad6fb1a,Omar Gamble,Male,64,Current,89397.74,Bangalore,481,Not Applied,133406.7,21,20-07-2024
+267b38bf-906e-42d9-b588-cf81056a6101,Elizabeth Flynn,Other,66,Fixed Deposit,346620.35,Kolkata,456,Approved,162838.67,65,18-02-2025
+cd5e2b09-8bf0-430b-8a19-6580ffcd4578,Jonathan Reyes,Male,28,Fixed Deposit,419219.53,Kolkata,417,Rejected,145869.03,44,15-04-2025
+dcfecced-3a65-4d9f-8b1f-414047a55cc6,Rachel Page,Female,38,Savings,472362.5,Mumbai,335,Pending,122700.06,68,27-03-2025
+132b3800-16db-4eae-8ea3-da2fef8a071e,Katherine Pacheco,Other,43,Savings,341940.77,Hyderabad,505,Not Applied,20136.12,90,24-01-2025
+3c880125-d85b-4492-88e3-039acdc30210,Michelle Rowe,Other,42,Fixed Deposit,249090.21,Bangalore,462,Rejected,96405.23,88,04-01-2025
+6d4a3126-9c8e-420e-9228-c0c155030202,Jeanette Harmon,Female,39,Fixed Deposit,309305.77,Hyderabad,880,Not Applied,138209.4,71,29-03-2025
+bc6221ef-7112-4131-993a-576fc77619ee,Kimberly George,Female,44,Fixed Deposit,434583.59,Kolkata,635,Approved,138731.01,0,20-08-2024
+a9a665ce-3675-4f29-9bbf-d02ecf22260c,Virginia Perez,Other,66,Recurring,285734.26,Delhi,508,Not Applied,80893.3,83,12-10-2024
+f712ba02-4ac2-4726-b843-b8c70334209b,Casey Perez,Male,30,Recurring,16163.14,Bangalore,648,Pending,188921.48,43,15-06-2025
+af9cfbb1-7085-4886-bb49-78dadcb62087,Christopher Miller,Male,50,Current,465543.4,Chennai,384,Rejected,41797.84,86,04-12-2024
+1ab6c417-519a-4469-b4fe-f1768ac19efc,Daniel Turner,Other,51,Recurring,345073.85,Mumbai,566,Approved,105068.29,95,21-07-2024
+b55c0bf9-0199-4f49-9652-c7ab7f102e92,Timothy Becker,Other,58,Fixed Deposit,338580.18,Hyderabad,676,Not Applied,141267.96,74,11-10-2024
+d0cc2d33-377d-4449-b72a-ae4c89f94cbe,Jesse Watson,Other,52,Recurring,108621.9,Delhi,593,Pending,142455.8,38,23-07-2024
+18eda9d4-cbec-40ce-ac06-63e8dbeb8e31,Robert Dixon,Male,18,Savings,329783.85,Delhi,541,Pending,133241.4,53,16-06-2025
+86e69b47-2b9d-4715-b3b6-3d7b7edadadb,Mark Hansen,Male,38,Fixed Deposit,197538.34,Chennai,896,Approved,62304.76,87,21-08-2024
+4926a8ab-5151-4474-8ea9-12afb8b6a2c0,William Villa,Other,65,Recurring,325965.26,Mumbai,828,Pending,39679.25,74,15-04-2025
+478b8e64-f6ca-48aa-9c8f-5d9911ec6728,Clinton Escobar,Female,23,Fixed Deposit,54189.92,Kolkata,674,Pending,130828.66,28,09-04-2025
+f0a28072-a9b5-4836-9206-8cecc12c803e,Anna Griffin,Other,45,Savings,329264.81,Hyderabad,642,Pending,123867.4,53,17-03-2025
+150aad93-a0a3-404d-a026-4dbeca1d4ad5,Amanda Miller,Other,34,Savings,499707.45,Hyderabad,672,Pending,44077.64,89,04-01-2025
+55c6100c-17b6-41ac-8bf0-098bd4cbc978,Michael Hopkins,Male,22,Recurring,25057.81,Mumbai,421,Not Applied,143976.44,15,03-04-2025
+494a0750-30b7-45e4-badc-d6e5b4dc640a,Michele Johnson,Other,48,Fixed Deposit,488609.92,Hyderabad,537,Approved,96482.68,98,03-07-2025
+0f96a68c-18a7-4ca6-b1a0-492be56b52f5,Jennifer Boyd,Male,22,Current,204047.07,Kolkata,324,Rejected,136874.51,19,12-01-2025
+7280a3d4-b20c-4377-9994-9d3b54d35aa3,Michael Smith,Female,55,Savings,435505.97,Chennai,585,Rejected,169099.75,45,20-03-2025
+76ab9345-7814-48d3-8db8-a9ad06531138,Victor Stevenson,Other,20,Current,391410.36,Chennai,626,Pending,42248.4,66,19-01-2025
+12ac169a-701a-4b33-bb8d-a2d00254abb3,Adriana Davis,Female,40,Recurring,283941.11,Delhi,437,Not Applied,13637.52,64,08-09-2024
+9d717495-3631-4a34-892e-ebe43426d72b,William Roach,Other,54,Savings,369486.16,Delhi,878,Pending,158029.49,57,17-12-2024
+64ed2116-1a77-4aed-9713-99a5c852ad4e,Craig Mckee,Female,54,Current,439379.27,Delhi,846,Pending,125842.51,52,29-08-2024
+b2a24fd2-d57d-495c-a06f-bee1a59b1382,Laura Flynn,Male,27,Savings,202666.02,Chennai,733,Not Applied,142931.52,0,01-07-2025
+f3b40009-a998-4c38-8072-0bf9239b8e4a,Dawn Johnson,Other,27,Current,164189.55,Kolkata,620,Approved,169249.45,80,17-02-2025
+a2c15826-0274-4762-b80f-3efa120acbaf,Sandra White,Other,36,Fixed Deposit,334129.1,Chennai,822,Rejected,162534.08,65,17-01-2025
+28bb98ab-4ba0-40b7-91d4-363eac3e9c06,Walter Gardner,Female,34,Fixed Deposit,404115.13,Chennai,378,Not Applied,192574.83,28,14-09-2024
+e9684cc9-52f5-43f4-b7b9-86a90d9ea2bb,Michael Allen,Male,38,Recurring,381380.28,Delhi,774,Rejected,111827.66,83,02-07-2025
+1e1350be-032f-4167-be1c-0a31c13c5105,Michael Parker,Female,31,Savings,399109.01,Mumbai,375,Not Applied,102814.17,69,17-08-2024
+a421a52a-ab41-40a6-9bc3-4f859eeca1be,Teresa Johnson,Female,26,Current,218356.07,Delhi,777,Not Applied,86358.57,7,13-03-2025
+5bc4f602-847b-4778-98cc-5a61e25b42d5,Michael Esparza,Male,63,Recurring,409099.27,Mumbai,465,Pending,39201.3,28,17-04-2025
+4647ebca-ee01-47ae-9560-8d697144c3a7,Joseph Patterson,Female,18,Fixed Deposit,60984.32,Kolkata,826,Approved,118795.37,50,18-11-2024
+49f79e5c-d128-415a-b002-35b1455ae666,Eric Davis,Female,68,Fixed Deposit,272700.06,Kolkata,866,Rejected,62632.38,32,03-06-2025
+ce2d5527-085b-46fa-9c14-ac0f05710dd9,Joshua Perkins,Other,62,Recurring,3873.57,Bangalore,389,Approved,185048.43,2,17-12-2024
+1d1eaf75-23fa-49e5-82bd-f353662eef47,Matthew Weber,Female,30,Savings,162968.33,Bangalore,578,Pending,120806.25,59,16-08-2024
+fa125a9e-afed-4ca2-9204-cd6dc68ba38a,Jeffrey Serrano,Other,21,Current,183864.31,Bangalore,889,Not Applied,122639.63,34,04-04-2025
+fc57f42b-4152-4625-807e-132095fb51f2,Madison Taylor,Male,18,Fixed Deposit,198690.17,Kolkata,590,Rejected,77435.69,68,21-07-2024
+a47c3981-eb5f-46b1-b9b7-b1561db9d244,Kathryn Gonzalez,Female,66,Recurring,348038.14,Delhi,818,Approved,19877.98,90,28-02-2025
+251560d4-6132-4d1b-9dc5-bfcc368541cc,Christopher Ward III,Male,57,Fixed Deposit,194890.49,Delhi,653,Rejected,16031.32,75,27-01-2025
+f5717d42-6fe9-4b35-9f96-0bfafbf8effe,Keith Ball,Other,49,Fixed Deposit,224898.12,Delhi,525,Rejected,90433.68,83,15-06-2025
+e83b7c8e-50d2-4421-8881-f525518ef3e0,Michelle Watts,Other,51,Current,119534.52,Chennai,471,Rejected,26067.42,19,29-10-2024
+19c4fbd6-a7f9-4a41-969c-b40f9d09cc78,Shannon Smith,Other,45,Savings,187252.64,Bangalore,422,Approved,125300.92,72,20-08-2024
+e7f7a029-343c-4486-a8e7-bcc9feb1a566,Dominic Cunningham,Female,48,Savings,114407.54,Delhi,757,Rejected,177384.87,38,31-12-2024
+24b2a87c-b96c-4688-a9b2-aff2e552e5a5,Bernard Rogers,Other,25,Current,37524.77,Bangalore,532,Approved,177753.82,3,18-09-2024
+c0b11e17-001f-4ca0-bf93-1f9a1410705e,Janice Webb,Other,56,Recurring,302120.85,Bangalore,607,Not Applied,135218.63,18,05-01-2025
+21715166-a8e9-4d39-9cda-7bedcfb44df6,Aaron Garcia,Female,43,Recurring,334438.19,Chennai,595,Approved,50134.05,90,11-01-2025
+b6f25b14-5dd2-4aa7-8746-ed53f6295a99,Matthew Walker,Female,51,Savings,310125.68,Kolkata,646,Pending,173969.4,44,02-10-2024
+e25431da-0746-42bf-8aef-93a0f9021854,Mandy Marshall,Female,20,Fixed Deposit,232283.53,Delhi,819,Rejected,178357.75,42,08-04-2025
+c886b550-9d10-4b50-9d72-5905d34b20d8,Michael Lee,Other,67,Fixed Deposit,190513.1,Chennai,888,Pending,47364.18,12,15-05-2025
+0d7f6a2d-2eb5-4559-b6a9-7e368d96bf5c,Michael Jackson,Other,29,Recurring,431803.49,Kolkata,545,Pending,150110.96,12,13-07-2024
+7458aceb-fdbf-48dc-a7d1-81f9eb7be0a8,Kimberly Dawson,Female,18,Current,260021.81,Kolkata,797,Not Applied,64438.71,59,01-07-2025
+8273475a-7065-4d0d-8530-0c8c9d817690,Krystal Wood,Female,61,Fixed Deposit,240111.76,Delhi,759,Not Applied,162501.66,56,09-02-2025
+8e41e5ed-5281-4691-84ad-ed84e6c903e2,Lisa Evans,Male,22,Recurring,13795.39,Hyderabad,644,Approved,199475.2,85,29-09-2024
+ee3dfeac-2da4-427a-b4b6-0dca251c6b3a,Lauren Fitzpatrick,Male,47,Current,171282.67,Bangalore,874,Approved,15704.94,91,11-06-2025
+07f887d8-4fa1-4f1e-b303-39bdcb772f15,Gary Jackson,Female,47,Savings,190717.61,Mumbai,420,Rejected,180499.51,51,20-03-2025
+391e7abc-582c-4782-a1f2-3551fac0417d,Julie Morris,Female,34,Current,200012.57,Bangalore,366,Pending,128299.8,52,20-03-2025
+cc793cb0-9702-4a84-8fc4-700ab932a8e8,Donald King,Male,65,Savings,290506.01,Bangalore,812,Not Applied,194942.7,85,19-07-2024
+f2adffcd-0aca-4f2e-8bcc-218c1a6f21c2,Jason Allen,Female,64,Recurring,267267.67,Mumbai,563,Not Applied,98351.81,42,27-07-2024
+fe748bf4-7917-4262-9c7b-be183281ac2f,Brett Weaver,Other,40,Current,304344.64,Hyderabad,808,Rejected,171003.71,82,20-06-2025
+0217fc5c-35a0-4a9b-9d33-193f60160e57,Denise Jordan,Other,32,Recurring,382676.75,Kolkata,836,Not Applied,21854.87,71,23-02-2025
+ae1eb5cc-db4b-4ac1-9ad5-319a5b727281,Mallory Luna,Other,54,Savings,406679.88,Mumbai,337,Pending,73703.02,71,30-09-2024
+ff2c124d-941b-4ef7-8c4a-2320f1b1058e,Vanessa Allen,Female,38,Fixed Deposit,359343.42,Mumbai,830,Pending,22733.14,41,22-12-2024
+b637d702-a2b1-4be9-896c-dacafc342ae0,Elizabeth Smith,Female,31,Fixed Deposit,477806.32,Chennai,569,Rejected,195315.2,89,09-07-2024
+21e7ede4-e989-453b-92ec-7b4e1a133b30,Dr. Denise Tyler,Male,19,Savings,10098.06,Chennai,606,Pending,165225.04,25,28-09-2024
+10282671-12e5-438c-876e-78d0161ffcf3,Susan Adams,Female,28,Fixed Deposit,98693.21,Chennai,676,Approved,171984.01,22,03-08-2024
+63464d4e-8ae3-4fc5-a6ca-76ce2ed955c2,Victor Sanchez,Female,68,Fixed Deposit,4773.87,Kolkata,856,Pending,188213.39,42,19-11-2024
+22365155-861a-498b-aa07-e48794d17027,Joel Roberson,Male,56,Current,324089.88,Mumbai,311,Approved,26169.66,76,16-11-2024
+75c1210a-8e75-44ae-b4a4-4f4fc31180bf,Susan Powell,Female,55,Current,449117.24,Delhi,586,Not Applied,83263.54,27,06-07-2024
+b1341f9e-5830-4d6e-81a6-60a40ce6b453,Leslie Murray,Male,51,Fixed Deposit,122497.67,Mumbai,713,Approved,23496.63,8,10-05-2025
+bc0adfda-3a5f-412c-80a8-0ecb2b5754b9,Sandra Cruz,Female,55,Current,463590.24,Kolkata,734,Rejected,50050.69,19,01-12-2024
+bd49a090-3a38-4b56-a546-d1425c4ca946,Joseph Quinn,Female,67,Savings,31073.43,Chennai,716,Rejected,53579.5,55,26-12-2024
+431e62ca-3485-4a9e-9e3d-fa0b0029cb4e,Miss Mary Rollins,Female,51,Current,467283.58,Kolkata,381,Rejected,99130.37,82,03-07-2025
+b69b962d-c95c-409a-9b8e-1e3f8c7c99f1,Shannon Hartman,Female,35,Current,176459.72,Chennai,480,Rejected,61026.81,38,22-06-2025
+a678d15c-195c-4a24-9c2f-4b65fa894490,Katie Willis,Other,47,Current,51608.99,Kolkata,515,Rejected,29185.84,50,19-09-2024
+c43a7084-ad89-4c6a-b619-8a0974b6ba56,Devin Knox,Other,32,Recurring,243450.01,Delhi,783,Pending,41823.31,11,01-12-2024
+926c18f5-fc49-402f-9c1f-36225824b1b6,Timothy Collins,Female,44,Savings,129131.51,Chennai,467,Not Applied,37982.36,78,20-07-2024
+331b9b9f-f811-4ae1-b84c-a4f8d0510ee2,Daniel Nelson,Other,68,Fixed Deposit,143151.58,Chennai,426,Approved,194884.59,94,21-02-2025
+ef26f310-bbb4-4466-8261-6e40657bbcdf,Holly Parks,Male,51,Fixed Deposit,154337.69,Mumbai,874,Approved,154265.58,54,29-06-2025
+225023b9-7fcc-486f-9023-a08d6b2c2fa1,Lonnie Arnold,Other,69,Recurring,401709.92,Hyderabad,305,Not Applied,193874.68,77,20-01-2025
+473c3d7c-c647-4365-b05d-beefcd2e8d2d,Jenna Fuentes,Male,55,Current,270041.48,Hyderabad,899,Rejected,93550.69,10,08-11-2024
+4a68116b-17d5-4d5d-abee-d3aad0ca6905,Tara Torres,Male,50,Savings,156342.54,Kolkata,706,Rejected,62890.01,25,10-02-2025
+5aa795b2-3aae-4090-8679-fbca73856b97,Monica Miller,Male,41,Savings,305556.56,Bangalore,797,Approved,161675.71,41,03-02-2025
+5095f56b-a68e-481f-b289-85bef6b7fd9b,Joseph Miller,Other,32,Fixed Deposit,358359.19,Bangalore,477,Rejected,71988.24,26,07-06-2025
+836b93e4-95ed-4b3e-91fc-f0c2370094af,Laura Briggs,Female,47,Recurring,137039.38,Mumbai,309,Pending,66882.84,10,16-02-2025
+2244fa82-7d88-4614-b197-03418e7b3907,Melissa Foster,Female,59,Recurring,207361,Kolkata,743,Pending,54176.14,37,12-09-2024
+a0a79374-ef03-4388-9c34-2865ac0c82bc,Karen Mills,Other,68,Recurring,61821.16,Delhi,800,Pending,34639.01,97,13-02-2025
+86c9bf02-cd34-4ce8-bdb4-246cac4fda8b,Christopher Foster,Male,34,Recurring,91393.53,Mumbai,744,Not Applied,58727.98,42,22-04-2025
+c1211b77-080c-4b82-8d1d-3f4b9e4cdb0d,Melissa Mccann,Other,22,Savings,340877.81,Chennai,386,Not Applied,77510.75,18,12-01-2025
+e6d64192-0776-451a-8e88-aff6c0d3ea6c,Brian Jones DDS,Female,46,Current,91537.74,Delhi,752,Pending,138058.9,63,10-09-2024
+22eedd85-3dbc-4de2-93aa-fec15eb5f762,Anthony Noble,Other,21,Fixed Deposit,263056.53,Kolkata,761,Not Applied,21887.32,5,16-05-2025
+5ce42c91-f5f8-44fa-b766-c7849917ae40,Deborah Guerrero,Other,27,Savings,354814.08,Chennai,695,Pending,49996.32,45,29-08-2024
+064f51b2-c55a-4854-9739-40020c047fb4,Crystal Garcia,Female,34,Recurring,54331.58,Bangalore,760,Rejected,163714.49,41,28-02-2025
+0ae2d004-8cc7-43c8-8273-c1a4f92d7a78,Michael Aguilar,Female,27,Recurring,284088.8,Kolkata,808,Not Applied,37915.17,91,30-05-2025
+5a9a55c8-491e-45b5-9251-2eb57cc2b58e,Ryan Lowe,Male,34,Fixed Deposit,129024.83,Chennai,668,Pending,75102.58,64,07-06-2025
+7054f958-5348-4685-9d7f-73ed60e4a11b,Robert Baker,Male,37,Current,481500.51,Kolkata,353,Not Applied,174285.2,98,14-02-2025
+1d84ed33-9332-45c5-97f1-e845ac8c54a2,Nicole Cooper,Female,41,Current,242289.28,Chennai,593,Approved,39435.81,71,25-01-2025
+a0fae9a5-794b-4913-9b37-c8757a03a974,Rhonda Wong,Male,22,Current,403190.28,Kolkata,347,Approved,25720,58,24-10-2024
+69eccc7c-4c1d-43c3-a39c-7078138d2a83,Eric Jones,Female,51,Recurring,275563.04,Hyderabad,545,Pending,102062.22,51,12-02-2025
+dbe64627-023c-44b8-9b5f-c7f8af79ebe6,Daisy Maldonado,Other,23,Savings,22662.85,Bangalore,544,Pending,67459.71,46,05-12-2024
+1c39ea42-01bd-44fd-a56c-d93dd20e207e,Jane Hayes,Male,19,Savings,316942.54,Mumbai,340,Pending,117047.59,6,27-05-2025
+076fd6aa-798c-45cf-9a29-32963c29ca4b,Holly Dominguez,Female,30,Current,475750.27,Chennai,509,Approved,162722.93,10,07-11-2024
+62b8fb02-fe51-42cf-96ed-5ce946b44565,Michelle Hernandez,Other,60,Fixed Deposit,301204.3,Chennai,367,Not Applied,36058.21,60,16-07-2024
+c0403905-1651-4172-8fdf-58d1cdf9fdbb,Timothy Pierce,Other,60,Current,409775.24,Bangalore,785,Approved,120332.83,67,06-01-2025
+c0745b85-7259-4453-aede-2789844c7622,Mark Mcdonald,Female,65,Current,442219.03,Hyderabad,869,Pending,106046.66,24,21-10-2024
+912d56a4-1052-410c-b055-df44f56b4e52,Jonathan Meyer,Female,28,Fixed Deposit,114811.81,Mumbai,343,Pending,37374.97,11,24-09-2024
+84e5c1fb-c949-4659-8eb7-ef46a01bca12,Carolyn Vargas,Other,68,Current,106810.38,Kolkata,873,Pending,128559.71,25,13-03-2025
+6397fcc3-ec70-4811-8871-70756543105c,Brianna Nelson,Other,64,Fixed Deposit,305879.51,Chennai,614,Pending,61991.68,11,25-11-2024
+03a78d15-4a77-4a2b-a916-45bcc01dab24,Greg Carr,Female,40,Fixed Deposit,206103.21,Mumbai,480,Pending,102688.52,42,11-12-2024
+d323d0e0-29f6-4be9-ba90-e3ecef31165a,Russell Wyatt,Female,33,Savings,420090.79,Kolkata,346,Pending,25631.74,50,07-01-2025
+676f153a-ce3b-4ef1-b721-616766c0ef87,Angela Cook,Other,48,Fixed Deposit,450111.54,Chennai,600,Rejected,97320.97,36,23-09-2024
+f10fc7b4-4497-408e-bae3-fd6f9e0282a2,Gregory Barker,Other,28,Current,177357.27,Chennai,777,Rejected,68228.06,45,16-06-2025
+99995629-96e0-4135-8a9f-2e9e08b46266,Amy Williams,Female,33,Fixed Deposit,119198.41,Hyderabad,724,Rejected,166252.43,52,09-08-2024
+237c7ee1-51ec-4fa5-8905-1697b9136c4b,Krystal Wood,Female,25,Current,390482.23,Hyderabad,330,Approved,20825.96,87,07-01-2025
+2892bbf1-00fb-4f7b-b79e-d97930792a37,Courtney Reid,Other,21,Fixed Deposit,138128.21,Hyderabad,344,Not Applied,89535.38,79,28-07-2024
+4d78dd8b-4b2b-4660-8ac1-c3dc5a4944a6,Connor Salazar,Female,57,Savings,411484.54,Kolkata,542,Pending,97101.97,12,13-05-2025
+87313e06-e528-46b3-8400-e8e4aaef3c57,Tammy Willis,Female,21,Current,212445.39,Bangalore,477,Rejected,147751.15,88,14-06-2025
+3e15e77b-083c-4826-ae74-aa956b9aa157,Benjamin Carrillo,Female,42,Current,334107.4,Mumbai,439,Approved,119114.64,53,22-06-2025
+2c341846-e29c-483b-9c5f-26152f741d5e,Michael Aguilar Jr.,Female,20,Current,48672.12,Chennai,469,Not Applied,136770.34,56,04-03-2025
+489a21ae-f0f7-4cf3-8969-a7e44155ef0d,Susan Wright DVM,Male,49,Fixed Deposit,312305.8,Kolkata,782,Pending,157639.36,3,20-11-2024
+38264afb-42de-42dc-965c-7fb68aea8cca,Melissa Serrano,Male,20,Savings,226432.07,Chennai,858,Pending,173818.56,74,01-02-2025
+10eac8a2-10cd-4d23-9533-6577abac125b,Bryan Smith,Other,44,Savings,293717.62,Kolkata,543,Not Applied,69636.34,95,16-01-2025
+a259cfc4-18e2-430a-9bfe-a547218b8895,Autumn Garrett,Male,46,Savings,84839.09,Chennai,844,Not Applied,112224.31,48,17-01-2025
+0e620af3-9acd-4ad8-90dd-0fd603485b6c,Victoria Smith,Female,49,Savings,368700,Delhi,493,Not Applied,169620.53,6,09-05-2025
+a3d2eff2-a61c-4f78-94b0-4fedad5a4d94,Nicholas Orozco,Male,67,Fixed Deposit,431535.74,Bangalore,586,Approved,197995.71,10,01-11-2024
+cf308cb6-dd1f-4fea-94f8-b473640e222c,Angela Mason,Other,68,Current,109153.16,Mumbai,436,Rejected,179008.67,91,06-02-2025
+bad8005a-d455-4f5f-8f15-c880ca28daaa,Alison Robinson,Other,36,Recurring,48761.56,Bangalore,684,Pending,80578.78,53,21-07-2024
+6199e5a0-8c58-4584-9188-d6113c56ab99,Jessica Simon,Other,38,Savings,12795.65,Bangalore,887,Rejected,47081.64,86,10-11-2024
+3e5c6f7f-da3b-4eee-9cd5-6b0b3cc538ab,Connie Phillips,Male,22,Recurring,321343.78,Mumbai,662,Not Applied,102984.58,44,22-09-2024
+da155e5a-2b4a-4bd4-bde1-c4b9b0b19df0,Jamie Wilson,Male,35,Fixed Deposit,303939.92,Hyderabad,515,Pending,150911.88,22,05-03-2025
+3a7c327c-acbd-41ea-a2b5-bca4c5a21700,Mark Nguyen,Male,45,Fixed Deposit,273802.01,Bangalore,689,Pending,103588.12,27,15-10-2024
+214604a7-19ae-406b-afc4-34901bcc2dbc,Thomas Potts,Other,59,Recurring,116741.6,Delhi,374,Rejected,101804.36,56,26-03-2025
+f04fae9d-6da1-4ef2-81aa-75a6a4feab9c,Kelly Grant,Female,39,Current,196062.09,Hyderabad,833,Rejected,169263.78,25,27-01-2025
+1dc9f020-179b-4efc-99ea-10084cc39847,Christopher Zimmerman,Female,38,Recurring,297643.69,Kolkata,602,Pending,78666.72,24,07-05-2025
+3b36ecb3-da4c-41d3-a0d7-56dbb1501c71,Johnny Jones,Other,23,Fixed Deposit,248886.66,Hyderabad,570,Approved,173360.99,53,02-04-2025
+a60d46a8-f75e-4f19-af80-d84f6fbd243b,Brooke Willis,Other,18,Recurring,493904.97,Mumbai,652,Not Applied,87292.91,28,30-04-2025
+f140377f-da4f-4ea8-b1e8-d6168f2986b9,Brian Price,Other,22,Savings,69083.44,Kolkata,675,Rejected,72364.29,82,24-12-2024
+9bf25c37-ea4b-47ac-876a-64833d25b0dd,Tracy Brown,Other,58,Savings,347877.13,Chennai,343,Pending,96258.08,96,10-07-2024
+2590bbda-0c8f-4dcf-8bab-970a44219a52,Brittany Riley,Female,29,Current,202755.07,Hyderabad,710,Rejected,154864.92,35,21-02-2025
+f2ffac89-826d-4dc4-be54-f4447d6212a3,Colin Hines,Male,43,Recurring,214671.61,Delhi,445,Pending,33940.39,13,02-12-2024
+ad3ab85a-8e8d-4ab1-ada3-3a1c493716d7,Randy Booth,Male,63,Recurring,359081.29,Kolkata,728,Approved,47319.65,77,20-08-2024
+a43a02c2-6ebc-4595-b92a-878e8648a7b7,Linda Gardner,Female,51,Recurring,346525.64,Hyderabad,794,Rejected,190774.52,34,01-11-2024
+a194d7e0-3050-4d8c-af99-cb3a806e629b,Jasmine Simmons,Male,66,Recurring,495636.74,Kolkata,782,Pending,43343.41,29,28-08-2024
+930622db-d58e-4eec-bbb8-b5de991533fa,Kristin Lee,Female,31,Current,65068.75,Mumbai,632,Rejected,117868.19,91,16-11-2024
+86c4549b-119f-4ae2-908d-958cf08dc9fc,Erica Howell,Male,43,Fixed Deposit,52950.72,Hyderabad,612,Pending,120069.75,16,10-11-2024
+89696d1b-d850-4b49-bca8-a8dbf17e34eb,Anthony Mitchell,Female,62,Current,362445.07,Chennai,386,Not Applied,103028.65,66,27-03-2025
+4b8fa588-e4cd-49e5-82e3-efc4a88efba0,Joan Perry,Male,44,Fixed Deposit,289615.07,Mumbai,765,Pending,132501.6,79,26-01-2025
+97a4da49-cb8d-4600-aa84-94af1b7645d6,Robert Johnson,Other,26,Fixed Deposit,137806.17,Chennai,463,Pending,53667.08,29,27-12-2024
+d14b3f6a-aad0-47c6-b47e-4289c8fa333a,Stephanie Hill,Other,43,Fixed Deposit,40630.27,Hyderabad,598,Pending,115005.83,92,04-07-2025
+1d91e279-92ab-43af-b2c4-1fd8b2de8e5c,Gary Kelly,Male,64,Recurring,43743.47,Mumbai,471,Pending,80712.92,44,25-07-2024
+ebda7f8f-77e4-4c9c-98b8-2a17fdb70543,Brian Hogan,Female,39,Current,447201.25,Hyderabad,380,Not Applied,135716.78,78,16-05-2025
+b3c1638c-7f27-4355-8aee-ee14ec488d02,Nicole Young,Male,64,Fixed Deposit,96741.8,Kolkata,678,Approved,36832.47,88,20-04-2025
+2ff57091-52e3-45d2-a80d-d2c7b16f4cbc,Brittany Schultz,Male,47,Savings,162362.41,Kolkata,333,Not Applied,118466.71,50,03-06-2025
+9c9f2d56-3429-4788-9ed5-9d5d01659451,Mr. Terry Sherman,Other,60,Fixed Deposit,114101.54,Delhi,749,Approved,45201.37,46,13-07-2024
+c314d1f2-d99a-4e52-ac41-cc23026a0421,Monica Manning,Female,65,Current,178143.16,Kolkata,491,Approved,62942.18,52,12-09-2024
+c80bd144-4bca-48d5-9ed9-123845e2b9e4,Regina Pacheco,Other,34,Recurring,35642.5,Bangalore,300,Not Applied,51554.86,63,04-12-2024
+baf82fba-4289-4e99-b9d7-0bcea742b8b5,Michelle Mercado,Male,43,Savings,260010.84,Kolkata,607,Rejected,44739.18,37,18-06-2025
+7c68017a-4526-4ac6-ab29-1e1ae5ed094c,Derrick Evans DDS,Other,53,Fixed Deposit,34738.67,Bangalore,328,Approved,166885.08,63,30-05-2025
+834e998b-624d-47d8-afcd-36c0faca9d02,Cory Mcclure,Female,18,Recurring,400377.9,Kolkata,466,Not Applied,64284.44,86,12-08-2024
+2e4e6bfd-b566-444e-a56f-07fa966fc950,Richard Barrera,Male,25,Current,117622.33,Bangalore,724,Pending,186153.52,88,26-03-2025
+c293623e-ccf7-4172-9c66-4fa5cb9092e2,Abigail Adams,Male,66,Current,270465.95,Bangalore,338,Not Applied,194286.04,6,01-04-2025
+5157d141-39b3-42de-abdd-7d7962a52775,Katherine Keller,Other,52,Savings,440159.46,Hyderabad,804,Approved,118539.49,21,19-02-2025
+375020e6-999e-4923-af41-555b347e9803,Victoria Fischer,Female,69,Savings,325787.81,Kolkata,302,Rejected,37170.21,80,08-01-2025
+7a865a86-37e5-45af-92e2-5c3d27f54e3b,Duane Walker,Female,32,Fixed Deposit,266945.94,Bangalore,448,Rejected,81164.17,81,17-04-2025
+e95cf35d-7540-43a1-82e7-15e3ecb50d9b,Gregory Lee,Female,64,Recurring,162842.54,Delhi,745,Rejected,161569.13,40,17-05-2025
+c606d0b2-5bc3-478c-8d29-b7fefacda440,Ricardo Phillips,Female,39,Recurring,167167.95,Chennai,490,Pending,79804.24,73,05-10-2024
+3004e1c0-be16-459a-9b35-bb033fb613d8,David Hodges,Female,31,Current,335073.99,Hyderabad,361,Not Applied,26533.27,9,22-04-2025
+e745168c-1d54-4e02-b993-5962ad98dfcb,Samantha Davis,Male,43,Current,497075.54,Bangalore,516,Not Applied,115789.13,56,14-12-2024
+65063c63-454e-4f55-92b0-c05e8939e512,Laura Cooper,Male,45,Fixed Deposit,331257.76,Bangalore,462,Rejected,170572.96,6,02-02-2025
+a22fdab7-cf87-4ded-b2a6-0be149368fa9,Jean Fisher,Female,40,Fixed Deposit,279333.93,Hyderabad,806,Pending,161226.01,49,30-05-2025
+39be55a6-e554-408f-bbfd-8d858bbd5b4f,Erica Parks,Female,31,Current,365594.6,Delhi,488,Rejected,43273.4,90,10-03-2025
+34deb1a6-4d0e-47f7-9339-36f9ec78889b,Derek Castillo,Male,41,Current,233137.6,Delhi,773,Approved,137825.28,51,30-03-2025
+ad19a13d-df06-46ea-bbf7-bd7eccf94f60,Christina Gomez,Male,19,Recurring,31011.03,Mumbai,835,Not Applied,51895.81,32,31-05-2025
+25d44ed3-6dc3-4bf2-a07e-3e0b7118b50b,Emily Best,Female,62,Recurring,281586.11,Hyderabad,560,Pending,51459.43,0,03-03-2025
+f6eac932-61f1-4f3f-ab3b-c129787b283e,Casey Nolan,Female,43,Recurring,478855.02,Hyderabad,846,Rejected,176073.64,52,15-04-2025
+83c57eff-08c4-4689-898d-a8058f6defbf,Brian Smith,Male,31,Fixed Deposit,88476.17,Chennai,526,Pending,57437.1,59,31-01-2025
+b5ab9f09-d19b-4c10-a337-63a126601cce,Jeffrey Lee,Other,68,Recurring,345312.44,Mumbai,878,Approved,60017,33,17-10-2024
+9fd2af9c-0af3-465f-bee1-b64005e49181,Lindsay Matthews,Other,24,Savings,101265.91,Hyderabad,354,Approved,10124.14,3,17-04-2025
+394c9589-9bf5-4688-9266-cf1c8ae0aadd,Robin White,Other,20,Savings,268378.01,Bangalore,712,Not Applied,175427.12,16,13-03-2025
+463eee43-b1a3-4b25-956f-0a511dc572b9,Jon Rogers,Male,64,Recurring,49241.55,Delhi,596,Pending,160593.01,3,10-05-2025
+57914c39-62ef-4ced-9cb6-a8cea23efc93,Deborah Jefferson,Male,40,Recurring,225735.1,Bangalore,533,Rejected,129192.5,42,22-06-2025
+19a83393-0a3b-42fa-b795-bdb5992a0839,David Krause,Male,63,Current,378325.5,Hyderabad,680,Rejected,152550.5,89,28-03-2025
+4a18142b-8235-423c-90e7-0fe2b65b00e7,John Arellano,Other,60,Current,174438.19,Hyderabad,722,Rejected,38889.23,3,27-06-2025
+f09b680d-ba0c-486d-806f-5bf791aff6cb,Jesus Vega,Female,64,Fixed Deposit,332790.95,Hyderabad,303,Not Applied,97081.48,0,21-03-2025
+6a0b4d3d-35ce-4a75-951a-6030652f6f5b,Michael Williams,Male,62,Savings,397929.53,Kolkata,400,Approved,76731.68,70,29-01-2025
+6cf6c8a3-c289-4757-938a-481dc231d6a0,Joshua Mueller,Male,35,Savings,463661.73,Chennai,728,Rejected,27817.54,93,15-09-2024
+4bd26c34-b5f8-4e79-a18d-49de8918cd34,Patrick Smith,Male,55,Fixed Deposit,118086.4,Kolkata,700,Not Applied,102364.79,49,13-08-2024
